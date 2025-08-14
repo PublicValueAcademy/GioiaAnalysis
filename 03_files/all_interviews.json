@@ -1,0 +1,1750 @@
+[
+  {
+    "interviewer": "Alexander Hertel",
+    "interviewee": "Tim Bussiek",
+    "items": [
+      {
+        "question": "Can you briefly walk us through your personal background and your professional background so we can learn a little bit about how you ended up where you are right now?",
+        "question_summary": "Ask for personal and professional background and path to current role.",
+        "answer": "Absolutely. So I actually am born in Germany in Westphalia Sauerland, where Friedrich Merz is from too. Grew up there 10 years. But my parents, especially my dad, as an English history teacher, is one of the biggest Anglophiles. And so by the way, this is kind of interesting. Never again something like the Nazis, that was his thing becoming a teacher way back then. And it is again very relevant today and maybe for your project as well. So that if you like, as a cultural value background has been for me in terms of how I am in the world and maybe what I see and what is important, I think that would have been a strong determiner. We went when I was 10, we went to Sydney, Australia for six years where I grew up and I hope I learned some humor, but also parts of the sort of open new world approach to life and to trying new things, which I think again is really important. I learned things like how to sail there and stuff like that. Normally I probably wouldn't have done a lot of those things and to surf if I'd hadn't been for stuff like that. For the Australians. I finished high school in Germany and then I did, maybe relevant in the time today, I was a conscientious objector. So I did 20 months there in terms of I consider myself a peacenik, but I then studied economics in Freiburg and also did a PhD in economics, which was already the intersection of economics or society and information technology. And at the time already we studied all kinds of things like AI and transportation, telematics and e-commerce and all kinds of great topics that were around electronic payment systems. So a lot of those topics actually have been around. I consider that a great benefit that I got to do that at that point in time. When I was done with that, this would be about 98. I then joined ASAP, but I didn't join them here, but in Silicon Valley, in Palo Alto. And from there on, I was about 25 years in California. I still am there months of the year. And so I kind of alternate, but most of the times in Germany now, after 12 years of SAP, more and more I was getting into startups. And it's interesting, you know, if I hadn't gone to Silicon Valley and if I hadn't been with SAP, which by the way, in terms of a career, you know, I was an economist, if you like, an academic. But there I turned into being a product manager, a job that I didn't know existed. And I think it's a fabulous job. And it just goes to show some, you know, where you end up, you don't know. But so I got more into more being into innovation, being a product builder, also into being marketing from product management to product marketing into actually VP of marketing. And I still like that a lot. The sense of category shaping, the sense of creating new categories. The examples that are thrown around in Silicon Valley which I think you know, can be a big part of also in Germany is like Germans maybe are intimidated of what happens over in Silicon Valley and things like that. So, to get to the last phase, basically through more and more startups. About 2017, I founded my own company. Philosophically, that also had to do with not wanting to be top down software like SAP and other software where the system knows, but designing something from the get go, which is bottom up, so it's around an elastic workflow if you like. It's about process management. It's about anyone having an accessible visual way of designing easy processes. We were not successful in the many sectors and we finally settled on education because the discrepancy there between sort of the teacher who stands at the front and who sucks the life out of the lesson by dominating the process and the people having to sit there being passive, is one of the biggest is one of the biggest hurdles that I see nowadays, still in terms of young people getting a great start into life, the dynamic component of learning by themselves is lacking and I think in Germany especially lacking because they are specially good at having discipline and the top down system. And so the software now we have basically we have relocated to Germany actually had to do not because we thought the environment here was easier but because also we had great contacts through Berlin and into education partners and for the last two years about we've been active here through the Founders Foundation, which you know, we got into an incubator program there and through that in Nord Rhine Westphalia we've been quite successful in building out something which also then went into a model project with 14 schools, about 25,000 students, which is really around a setting of educators, technology. It's called valuable agile learning for all. So it's really about - Can learning being an agile project based learning be valuable so that it's not like an add on nice to have, but it's part of the regular plan? Like one day a week",
+        "answer_summary": "Tim outlines a cross-cultural and cross-disciplinary path: German roots, upbringing in Australia, conscientious objector, economics studies and PhD, move to Silicon Valley and SAP, shift toward startups and product roles, founding a company focused on bottom-up, elastic workflow and education technology, and recent work with Founders Foundation on agile, project-based learning in schools.",
+        "keywords": [
+          "Germany",
+          "Australia",
+          "Westphalia",
+          "conscientious objector",
+          "economics",
+          "PhD",
+          "AI",
+          "telematics",
+          "e-commerce",
+          "electronic payment systems",
+          "Silicon Valley",
+          "Palo Alto",
+          "ASAP",
+          "SAP",
+          "product management",
+          "product marketing",
+          "VP of marketing",
+          "category creation",
+          "bottom-up design",
+          "elastic workflow",
+          "process management",
+          "education technology",
+          "Founders Foundation",
+          "Nordrhein-Westfalen",
+          "14 schools",
+          "25,000 students",
+          "agile learning",
+          "project-based learning"
+        ],
+        "concept_label": "Bottom-up elastic workflow and agile learning in education technology",
+        "concept_reasoning": "The passage centers on a shift from traditional, top-down software and education to a bottom-up, elastic workflow design and an agile, project-based approach in education. Tim links his career evolution (economics → product/marketing → startups → education tech) and his philosophy for enabling proactive, learner-driven experiences, which aligns with a second-order theme of bottom-up, agile learning in education technology."
+      },
+      {
+        "question": "How much do regulations influence your business model, and has that influence changed over time?",
+        "question_summary": "Reg regulatory influence on the business model and its evolution over time",
+        "answer": "I believe the regulatory environment or the way the system is set up, if you like, which means that the federal you know system and then also the federal is what I mean and then they also so they pay the teachers, but the schools are paid for by the communities and you know, so everyone's paying. So the system is really impermeable. It is not possible. It's like rock, it is set in stone. And I would say nobody in the system is paid to, for instance, do digitization. I think the all the concepts around how to do better have been around for many decades. I'll give you an example. The labour scholar in Bielefeld has been around now 50 years, and they've already implemented all the things about project based learning and everything that you need to do, which would be great for kids, for all the kids to have nowadays. But it's remained, it's one school within all of North Rhine Westphalia and the German schools, so the system is absolutely not to be changed and any start up that tries to change it is doomed to fail. And so, for instance, even with the backing of the Founders Foundation being a model project finance partially by the state itself, it is not possible to get in touch with the Bildungsministerium [Ministry of Education]. The Ministry of Education in Nord Rhine Westphalia, even though there's politicians from the CDU and the Green Party saying, please talk to these guys, it's not happening and we have business models that show that just on the Berufskollege, if that means something to you. There's 360 in Nord Rhine Westphalia 500,000 students. The schools that we work with, they have failure rates or dropout rates up to 40-50% in the year 11. Now €11,000 per student per year is about the cost, so they are losing about 2 billion per year. There's a tremendous inefficiency, and yet nobody wants to talk to us. So there's a lot of talk now, you could say what has changed in the system in the last years. Maybe the talk is getting louder about the crises, the numbers are certainly getting worse and my firm belief is that through social media and people being extremely passive, I think the last 10-15 years have made the situation actually much worse. It's not just super diversity and these kind of things and artificial intelligence coming. I think the situation in schools with students being like completely in themselves, easy dopamine verses hard dopamine is making it even harder. So back to the regulatory environment, there's no changes that are discernible and I would have stopped based on that, except for I, I do believe the system is incredibly ripe for change and there are those schools that we are allowed to or able to work with. And actually schools have a certain amount of freedom and of course, there's now Startchancen program and there's the Digitalpakt too. So there is a chance, I think if you do it right and it's based on technology because it's never been tried before, project based learning based on technology really done well then school by school it is possible to get through, but not because the regulatory environment is helping, but maybe at least it's not getting in the way as forcibly as it used to.",
+        "answer_summary": "Tim characterizes the regulatory regime as rigid and largely unchangeable, with digitization not funded or encouraged; progress is possible only school-by-school and not because of regulation, though recent programs (Startchancen, Digitalpakt) offer some openings.",
+        "keywords": [
+          "regulatory environment",
+          "education system",
+          "North Rhine-Westphalia",
+          "Berufskollege",
+          "Ministry of Education",
+          "digitization",
+          "project-based learning",
+          "Startchancen",
+          "Digitalpakt",
+          "regulatory barriers",
+          "system rigidity"
+        ],
+        "concept_label": "Regulatory barriers and system rigidity",
+        "concept_reasoning": "The core theme is how a rigid, centralized regulatory framework shapes and constrains the business model and capability to scale."
+      },
+      {
+        "question": "There is a shift in the world over the last 10 years toward a more divided, confrontational political vibe. Does that have any influence on your work in the European Union and Germany?",
+        "question_summary": "Influence of broader political/societal shifts on the education startup",
+        "answer": "",
+        "answer_summary": "No answer provided in the excerpt.",
+        "keywords": [
+          "political climate",
+          "societal division",
+          "Europe",
+          "Germany",
+          "education"
+        ],
+        "concept_label": "Socio-political context impact on education startups",
+        "concept_reasoning": "This item probes how external political/societal dynamics might shape strategy, risk, or adoption of innovative education models."
+      },
+      {
+        "question": "on how your business operates? How's your strategy for the future? So, do you take that into consideration when you think about your company or do you do it a bit less?",
+        "question_summary": "Asks how the business operates and future strategy, and whether planning accounts for it.",
+        "answer": "We maybe have to spell out what you are getting at there more so in terms of being remote. For instance, the company is very remote. I could have we could have settled in Bielefeld, but we went to Berlin. It's the center, it's where innovation maybe happens, it's being close to certain areas there. In terms of for us, we believe like I just tried to explain that what we are doing - getting people to work together to solve goals on a simple level is what they have lost. And so we believe now that has strengthened our or makes our model more, we actually provide even more important than before. I don't think that's where you were going, but. Just recently and I'm super happy next. I'm talking now to Brigitte Mourn of the Bertelsmann Stiftung, very important person and but many people are stepping up. Verena Pauster is another one who are saying that, you know the AfD is happening. The political situation is just really descending really fast. There has to be something that we can do, we are losing these generations and out of the political discourse, or they can go any kind of directions, the whole stability, economically and otherwise we’re losing, and so I think they're very open to maybe changes happening and so we are talking about something like that and with the newspaper also like a project based way of the students really doing their own newspaper and figuring it out - Tiktok, whatever. But really, using the new generation to help us figure some of this stuff out.  But so in that sense, we are, I think, right in the middle of that trying to solve that. But I think overall politics in Germany is, I don't know. If on a level of one to 10, I'd say it's an 8 or 9 behind. Understanding that and there's something I like to quote was in the Guardian recently. I could look it up for you, but. The Democrats in the US have completely missed it. They're still trying to sort of, you know, the Republicans are trying to go back into the 20th century. The Democrats are not able to figure out the 21st where people are online, and if you don't do that, and I in terms of the politics, I think especially the SPD and the CDU are just reacting in a reflexive way that the way they've done in the last 50 years and it's sort of like, well, we have to the way we divide money is more SPD is like, OK, and they said, well, we have to do more economics or something, but, I don't think they really have anything interesting to offer in terms of, OK, like how do we use AI? I think that's a really interesting question in terms of bureaucracy and what we could solve.  So maybe I don't know if that was your question. I think there's a huge potential for Germany to show and political parties also to show there are solutions that can be built and that can help us and that we here in Germany can build. And we have the young people to do that with, but they the politics is the way the way they think it's, I find it amazing that they, I'll pick on Schultz if you like, but I don't think he's arrived yet. In this sort of decade, and I don't hear anything that he's saying, which is like really a solution, I don't think Merz has either.",
+        "answer_summary": "Explains remote-first stance, location choice (Berlin), collaboration as core, and broader engagement with political economy and youth; references concerns about German politics and generational change; mentions potential changes and use of media to engage youth; expresses views on German politics and AI applicability.",
+        "keywords": [
+          "remote work",
+          "Berlin",
+          "Bielefeld",
+          "innovation",
+          "collaboration",
+          "generational change",
+          "political discourse",
+          "AfD",
+          "Guardian quote",
+          "AI",
+          "SPD",
+          "CDU"
+        ],
+        "concept_label": "Strategic/operational determinants of a remote-first company",
+        "concept_reasoning": "Shows how location choices and collaboration shape business strategy, and how external political context is seen as relevant to the company's ability to operate and attract talent."
+      },
+      {
+        "question": "do you, as an entrepreneur, actively engage in politics or in political discussions for that matter, for example in social media, and if so, you don't have to tell me on for which party or whatever, but how do you engage in politics if you do?",
+        "question_summary": "Asks about direct political engagement and methods used by entrepreneur.",
+        "answer": "I try not to. I think in terms of where I am I probably would like to. I did try when I was young at university. But they couldn't really use me at the time and I would still have that feeling today. So I'm, but I for instance one I work with associations, I work with the industrie und handelskammer [Chamber of Commerce and Industry], die Jungen Unternehmer [the young entrepreneurs] is a group that we work with closely. There's there's a number of those. But would I try to get so, these are lobbying groups, let's say, and I would do that.  But in terms of trying to change, for instance, the political environment around education. I've tried. I've offered it like in Nord Rhine Westphalia, like I mentioned, there's no interest and all that they offer you is oh, that's nice, but they don't, there's nobody that's paid to actually do that or help you. There's nobody paid to do digitization, so there's no one who's actually asking, there's nobody actually interested and so, but would I go into politics? You know I can't afford to. And so I try to actually stay away from it 'cause I know there's no result. I've tried Green Party all the others and I think what we have is extremely relevant, but would somebody sit down for an hour to understand what we have?",
+        "answer_summary": "Describes cautious stance on direct political engagement; prefers working through associations and lobbying groups; cites lack of political willingness and resources to effect policy changes; notes difficulties in getting policymakers to understand/digitization.",
+        "keywords": [
+          "political engagement",
+          "associations",
+          "Chamber of Commerce and Industry",
+          "Junge Unternehmer",
+          "lobbying",
+          "education digitization",
+          "NRW",
+          "policy",
+          "Green Party",
+          "education policy"
+        ],
+        "concept_label": "Lobbying and professional association engagement vs. direct political activism",
+        "concept_reasoning": "Differentiates between indirect political influence (through networks/lobbying) and direct electoral politics, highlighting practical barriers and strategic choices."
+      },
+      {
+        "question": "But would they actually then do something?",
+        "question_summary": "Whether CDU would take action despite previous talk.",
+        "answer": "Very limited anyway, so for me personally politics I could not spare the time.",
+        "answer_summary": "Tim thinks political action by parties would be limited and he lacks time to engage.",
+        "keywords": [
+          "CDU",
+          "political action",
+          "limited",
+          "time",
+          "engagement"
+        ],
+        "concept_label": "Political engagement by established parties",
+        "concept_reasoning": "Addresses the perceived gap between talk and action by political parties and the feasibility of engagement given personal time constraints."
+      },
+      {
+        "question": "From your perspective, should entrepreneurs and businesses get more involved in evolving and keeping the system alive, so having a positive impact on the political system as their core business model?",
+        "question_summary": "Should businesses involve themselves in politics to influence the system as their core activity?",
+        "answer": "I think it's a great advantage if they were part of it in some way or another in a way that allowed them because they obviously contribute something very relevant. And I was talking to this the way we teach economics or entrepreneurship in schools. It's terrible right now, so to be able to just provide examples of that to maybe it doesn't have to be funding, but it can be funding for certain areas to go forward uh for entrepreneurs, for companies to be involved, I think is highly advantageous. We do some of that work. We have founded to work well. There's no where the companies then try to influence the students and stuff like that. They're very good about that. This schools maintain the overall control of everything. So it's it's all in a good way. Absolutely. I think entrepreneurs or companies should be much more open and especially the way that we do that in our program is the students have an incredible benefit of understanding why they are learning what is going on in society, in economics or other. It doesn't have to be just entrepreneurship, by the way. Companies can be anything can be politics, communal systems can be green, whatever it is, but that the young people see hey, there's actual real challenges to be solved and you know, let me try. Let me try my luck at some of these and I can find my own purpose. So for the for the companies or whatever society to open up and to show, hey, this is the stuff we're working on and you know, why don't you help us a little bit and see where you fit in just that kind of where the system opens up, I think could be hugely advantageous because right now it's not working. The Ausbildung [training] and then you'd kind of do that and they have the Berufsorientierung [Career orientation]. That's so old that there's a lot of, think it's one of the biggest issues Germany has.",
+        "answer_summary": "Tim argues that business involvement is advantageous for education and societal problem-solving; engagement should be open and collaborative, not coercive, and can help align young people with real challenges.",
+        "keywords": [
+          "entrepreneurship",
+          "education",
+          "policy",
+          "involvement",
+          "Ausbildung",
+          "Berufsorientierung",
+          "Germany"
+        ],
+        "concept_label": "Industry engagement in education/policy",
+        "concept_reasoning": "Centers on how business involvement can enrich education and policy, and the need for open, non-coercive collaboration between industry and schools."
+      },
+      {
+        "question": "Should that be the purpose of any business or should they stay away in general?",
+        "question_summary": "Is political involvement the purpose of business, or should businesses stay out?",
+        "answer": "Absolutely. I think entrepreneurs or companies should be much more open and especially the way that we do that in our program is the students have an incredible benefit of understanding why they are learning what is going on in society, in economics or other. It doesn't have to be just entrepreneurship, by the way. Companies can be anything can be politics, communal systems can be green, whatever it is, but that the young people see hey, there's actual real challenges to be solved and you know, let me try. Let me try my luck at some of these and I can find my own purpose. So for the for the companies or whatever society to open up and to show, hey, this is the stuff we're working on and you know, why don't you help us a little bit and see where you fit in just that kind of where the system opens up, I think could be hugely advantageous because right now it's not working. The Ausbildung [training] and then you'd kind of do that and they have the Berufsorientierung [Career orientation]. That's so old that there's a lot of, think it's one of the biggest issues Germany has.",
+        "answer_summary": "Tim advocates openness to corporate involvement as beneficial, not necessarily the sole purpose of business, emphasizing collaboration with education.",
+        "keywords": [
+          "open involvement",
+          "corporate-social role",
+          "education partnerships",
+          "Germany"
+        ],
+        "concept_label": "Open corporate involvement vs core mission",
+        "concept_reasoning": "Explores whether business involvement should be central to purpose or a beneficial, open collaboration with society and education."
+      },
+      {
+        "question": "Do you think the political climate in Germany supports new ways of thinking, being innovative, being an entrepreneur from the mindset... Do you think this way of thinking is currently being proposed by or people are getting like a positive feedback to engage in these kinds of thinking?",
+        "question_summary": "Is Germany’s climate supportive of innovative/entrepreneurial thinking and is there positive feedback to engage in such thinking?",
+        "answer": "No, and I think that's one of the biggest issues. It's Germany, but it's the whole of Europe and the Europeans are very happy to live their life and they've got a great lifestyle and you know, I get it. But and to take your vacation and everything. But in terms of opening up to innovation, clearly Germans are well known to be naysayers. You know, you come up with something and they're like these five reasons it's not going to work. And some of that is good because then it leads to higher quality. But to make it more open towards and everyone participating more in some form of innovation and seeing them to be innovative and curious, I think could be one of the biggest things that would make this country benefit tremendously. I just go back to this also the study of the Friedrich Naumann Stiftung that was quoted to me. And it it really showed the way that economics or entrepreneurship is taught in schools. The books that are used are like 30 years old. And it's like the company or companies are often they sound like they're rather mean or bad or something. And then if the problem arises, it's like, well, now it's that you have to call the government. And so this whole sense",
+        "answer_summary": "Tim identifies cultural and educational barriers to innovation in Germany/Europe, highlighting outdated curricula and risk-averse attitudes that hinder entrepreneurial thinking.",
+        "keywords": [
+          "innovation",
+          "Germany",
+          "naysayers",
+          "education",
+          "Friedrich Naumann Stiftung",
+          "policy barriers"
+        ],
+        "concept_label": "Barriers to innovation adoption in Germany/Europe",
+        "concept_reasoning": "Highlights systemic cultural and educational obstacles that suppress entrepreneurial thinking and open innovation."
+      },
+      {
+        "question": "Do you think that we also have to reconsider the way we think about entrepreneurship as a whole? And do entrepreneurs have to actually more engage with challenges for society and not only business models that have the highest return on investment?",
+        "question_summary": "Interviewer asks whether entrepreneurship should be reframed to address societal challenges beyond ROI.",
+        "answer": "I would absolutely agree. The only question is how, what are the models, what are the formats to do that? I think we have a good one. I think to bring that into so entrepreneurship, like you were also said, like a mindset and even be less than that and use a different word for it maybe. It's not about the company like we worked with Nifty, if you know them and others who's like, you know, I get all that and start up teams, but it's always like the Champions League of oh, you have to found like these kids and they start, they find an idea and they start a company. No, what about if it's like on the Kreisklasse [district class] that everyone becomes and gets to and don't even call it entrepreneurship, call it self-confidence in being able to do things and from that then I think the financial financing is not that relevant. If it's VC money, if it's Angel money, if it's spin off here there wherever it doesn't matter so much. The whole question is, you know, can you just let people be in the - hey, we can change things up, self-efficacy. And there was a study done, 2018 was Pisa with 15 year olds and the Germans were at the last place, in terms of only 60% thought that they could make an impact on the world's problems. It was the saddest thing that I could see and to change that around to just let them accomplish something together in teams. I think that's one of the biggest things that we could do. So, companies, if we find the right model, I think they can, for instance, the ones we work with, they sort of OK - here's 5 challenges that we have. Solve this for us, right? And come up with a social media plan for your generation. Or, you know, do this or do that. And I think that's one of the best things that we can do to create some kind of where they interact. That is interesting for the companies as well. I think that's also been the problem. Whenever you've had schools and companies interact, it never worked. It was like, oh, there was a teacher, they tried something, they met, but no, there was no result. The students experience was bad. The company's experience was bad. If you can change that, then I think, you know, the companies will take time and money 'cause they do wanna know, get to know those people. And for the students, it's immensely beneficial too.",
+        "answer_summary": "Tim agrees with broadening entrepreneurship beyond profit, discusses models/Formats, emphasizes self-efficacy, education linkage, and corporate collaboration; argues impact over traditional financing and highlights potential benefits for students and companies.",
+        "keywords": [
+          "entrepreneurship",
+          "social impact",
+          "self-efficacy",
+          "models",
+          "formats",
+          "education",
+          "schools",
+          "companies",
+          "VC money",
+          "Pisa study",
+          "district class",
+          "self-confidence"
+        ],
+        "concept_label": "Redefining entrepreneurship: social impact and self-efficacy",
+        "concept_reasoning": "The speaker advocates moving entrepreneurship away from pure ROI toward societal impact, emphasizing formats, mindset, education, and collaborations; this is a distinct theme about rethinking the concept."
+      },
+      {
+        "question": "Two last questions before we finish up. The first is we already talked about wishes, so",
+        "question_summary": "Closing questions introduction about what was already discussed (wishes).",
+        "answer": "",
+        "answer_summary": "No answer in excerpt; closing question started but not completed in the provided text.",
+        "keywords": [
+          "closing questions",
+          "wishes",
+          "unfinished"
+        ],
+        "concept_label": "Closing questions: wishes",
+        "concept_reasoning": "Represents the nearing end of the interview and a shift to wrap-up topics, though the answer is not present in the excerpt."
+      },
+      {
+        "question": "if you could not only wish, but actually, either change a policy or introduce a totally new policy in Germany, regarding entrepreneurship, what would that policy look like?",
+        "question_summary": "Policy proposal for entrepreneurship in Germany (education-focused).",
+        "answer": "It would introduce one day per week for at least the higher like 11th and 12th classes, but maybe earlier to do project based learning, agile learning and that would be implemented and also was they all want to do project based but they so far that's sort of on different days and different courses, I think that could be done wouldn't cost anything. It wouldn't change the whole system, but it would make a clear signal to entrepreneurship, starting from the individual for everyone, I think that's also like Social Democrats always said it should be for everyone, which is great Chancengerechtigkeit [equal opportunities], and then the others would have said, well, you know you want performance and you want entrepreneurship. Well, here you get both. So I think that that would be it and and then you would organise it with, you know, partners from outside allowing them into the schools as well having those challenges. But I think that's doable.",
+        "answer_summary": "Proposes a school-based entrepreneurship policy: a weekly project-based learning day for upper secondary students (11th/12th, possibly earlier), cost-neutral, signals equal opportunities and entrepreneurship, with external partners involved.",
+        "keywords": [
+          "policy proposal",
+          "entrepreneurship",
+          "education",
+          "project-based learning",
+          "Germany",
+          "equal opportunities",
+          "Chancengerechtigkeit",
+          "external partners",
+          "schools"
+        ],
+        "concept_label": "Entrepreneurship education policy",
+        "concept_reasoning": "This item centers on a concrete policy proposal for embedding entrepreneurship education in schools, emphasizing inclusivity and performance ethos, and outlining implementation ideas like external partnerships."
+      },
+      {
+        "question": "final question after speaking with me for the last 35 minutes, are there any final thoughts or any topics we did not cover that you think are important when we talk about the relationship of politics and entrepreneurship?",
+        "question_summary": "Final reflections on politics-entrepreneurship link and potential policy experimentation.",
+        "answer": "Probably, I think you know, I'll just at least one, in let's say, Nord Rhine Westphalia to try out. But I think you guys do something similar. If there were these test beds. So if there's a way that, because as a politician, I understand you don't want to sort of say, OK, this technology, this company should win. You don't want to pick winners. I get that. But on the other hand, it's like sometimes there's highly regulated areas which are correctly highly regulated, like medicine and like schools, you don't want to open that up, but. In those cases, at least allow certain areas where you can experiment in a way and allow companies to show themselves or concepts. And that seems to be something that's left to foundations, and I think it's a very haphazard way. And even now what I fear is like you have startchancen [start opportunities]. 33:00 And so I think there's 20 Billion EUR spent. But then the schools, because they are clueless. I mean, every school is now picking something and then they'll follow the big trend and it's not going to be very intelligent decision, whereas if you had maybe certain areas. Anyway, so that's something having more of these, maybe test beds in highly regulated areas would work. That's just an idea, but for me as an entrepreneur I can say, of course bureaucracy is an issue. I can give you examples. That it's not made easy to just exist and the Germans have a way of also being right about everything. So I could give you examples also of comparing like with in the US if you want to have an advisor. There's great advisors out there, great people who will actually pay forward and do good things for you. And then you just, there's an agreement for that and then they get a part of your company and it's OK. But here there's so many like tax implications and things like that. And then also if you wanna hire someone here, just to get started and to try it out, then that's not gonna go because then immediately like their employee -what does that mean in terms of taxes? So to get to the level of even starting anything at all there's already a big sort of - It has to be done right and you have to follow all the rules and to do that is basically impossible for most people. So that's something. I don't know how you create the environment for that, but it's always gonna be a huge like Cliff. You immediately get run into that wall and it's just it's very difficult to get beyond.",
+        "answer_summary": "Advocates for test beds in NRW to pilot entrepreneurship-friendly initiatives; acknowledges need for regulatory experimentation while avoiding winner-picking; critiques overly regulated sectors, reliance on foundations, and bureaucratic/tax barriers in Germany; suggests US-style advisory models as possible reference and highlights high barriers to starting ventures due to taxes and employment rules.",
+        "keywords": [
+          "test beds",
+          "regulation",
+          "NRW",
+          "bureaucracy",
+          "startchancen",
+          "foundations",
+          "policy experimentation",
+          "advisors",
+          "tax implications",
+          "hiring",
+          "Germany vs US"
+        ],
+        "concept_label": "Regulatory experimentation and enabling environment for entrepreneurship",
+        "concept_reasoning": "This item expands on the need for controlled experimentation within highly regulated sectors, addressing policy design, bureaucracy, and cross-national learning while underscoring the demand for practical enabling conditions to support entrepreneurship."
+      }
+    ]
+  },
+  {
+    "interviewer": "Brandon Ching",
+    "interviewee": "Christian Lothar Schütz",
+    "items": [
+      {
+        "question": "So first just some background information. Could you please briefly describe your background and what led you to start your company?",
+        "question_summary": "Ask about personal background and motivation for founding the company.",
+        "answer": "Let me. Well. OK. So the company has not yet started. We're still in the founding process. So does that count? So I'm a chemist by training. And I've been in research for the first couple of years of my career. Went into the private sector. And from the private sector, I switched back into this... well into the Fraunhofer world, which is sort of the limbo between private and public research. So, I mean, many people perceive us as just the same thing. As any other university. Very many, even in Germany, confuse us with Max Planck Institute or Helmholtz Institute. But actually, Fraunhofer was designed to act as the link between academic research and applied research, which a company would typically need. So are you familiar with the TRL scale, the Technology Readiness Level scale? So yeah. NASA came up with it and they classified all technology into readiness levels from zero being nonexistent. Up to 9, which is a serial production stage. And so academic research is typically... Placed in at TRL, Zero to Three, so TRL Three is typically... I have a patent, I have a peer-reviewed paper. So you have any kind of proof of concept, but usually in a laboratory environment. And Fraunhofer was basically invented or was founded to cover TRL levels 4 to 6, because that's the valley of death, the valley of risk for the companies. Because there are many companies who probably read a paper by a university. Then we had some kind of trade fair where the university says, \"Oh, look, I have 3 grams of a particular material and I think It's going to be an absolute blast” and when the company asks them, \"Well, I would need 300 tons of it,\" they say, \"Ah, you know...\" So far, we're basically trying to bridge this valley to provide people not just with three grams of something, but probably with 300 grams and some tests in a more or less realistic environment. That would make a company more willing to invest into something. Picking up the research. So we are closer to application, and this is also what led me basically to this whole founding idea. Because, Fraunhofer in itself is prohibited from commercializing anything. So we are a nonprofit organization. We lose a lot of benefits that we have presently in Germany if we were to commercialize anything, to act like a company on the free market. So whenever Fraunhofer comes up with a technology that they think would be very much applicable to someone, but let's assume... Assume that there's no one who wants to license the patent. Then there's always the possibility... Say OK, I'm going to found a company, my company's going to license Fraunhofer IP and I'm going to make money with it. And this is basically what happened to me. So, My institute has actually a little patent family in a particular field where we thought it would be... Well, a lot of interviews with a lot of companies out there, producers of said product or potential end customers, but a very good feeling about this. And then we thought, well, this is someone... Could lose effectively control over marketing and what happens out there with our ideas. And we wanted to stay in control and the only way was to found... Our own company and... Yeah, my division, the head of my division went about, was looking for... Volunteers. And since I've been working in business development for my institute for quite some time now... I've always had this, this perspective. I've always had a vantage point from which I had a lot of exchange with business developers on the other side. So with people who concern themselves with the question, \"Is anybody going to buy this and why?\" And I thought it would be fun to not only observe this, but to actually do this. And this is how, you know, how I got here.",
+        "answer_summary": "Background in chemistry; career across private sector and Fraunhofer; Fraunhofer as link between academia and industry; TRL concept and the 'valley of death'; motivation to start a company to maintain control and bridge research to market; early business development experience.",
+        "keywords": [
+          "background",
+          "Fraunhofer",
+          "TRL",
+          "valley of death",
+          "founding",
+          "IP licensing",
+          "business development"
+        ],
+        "concept_label": "Founding rationale and bridging research-to-market",
+        "concept_reasoning": "Describes the founder's path from chemistry to Fraunhofer, the need to bridge research to market (the 'valley of death'), and the decision to start a company to maintain IP control and facilitate commercialization."
+      },
+      {
+        "question": "OK, cool. And how did the political climate surrounding the German general elections in 2025 influence any of your business decisions? I guess were there any specific policies or debates that kind of changed your strategic planning?",
+        "question_summary": "Ask about how political climate and policies affected strategic planning.",
+        "answer": "It was of less importance I would say or of little importance I would say because looking so I come from the world of plastics and the product that we are going to be selling hopefully shortly is going to be an additive. So that's what it's called, an additive for plastics production specifically. 9:18 I'm going to start over. So the product that we're going to sell hopefully of the recycling plastics value chain. And you might assume that recycling plastics is only something that weird lefty liberals are interested in. But if you look at the actual elements in the in the world of plastics out there for the past, let's say 20, 25 years, then it's pretty obvious that sustainable, more sustainable plastic solutions that just taking crude oil, turning this into polymers, turning this into plastics. 9:56 There's a lot of lot of stuff going on. And more and more markets, more and more countries, more and more companies are going into this sustainability direction. So we think that it's the right time to found right now. And the political climate I think despite out there has realised this too. 10:16 So there might be, you know, the more conservative parties who are probably not too keen on sustainable solutions and the the more left-leaning parties are keener on such solutions. But",
+        "answer_summary": "Response downplays political impact; emphasizes market timing due to sustainability trend; product is a plastics recycling additive; politics may slightly influence reception but overall trend supports founding.",
+        "keywords": [
+          "political climate",
+          "German elections 2025",
+          "sustainability",
+          "plastics",
+          "additive",
+          "founding timing"
+        ],
+        "concept_label": "Policy climate and sustainability momentum as a driver for founding",
+        "concept_reasoning": "Shows the entrepreneur arguing that politics is less influential but sustainability trends and market directions are the primary drivers for founding timing; nuanced with party differences."
+      },
+      {
+        "question": "OK. So you mentioned what maybe the extreme right possibly getting into power that might change things. Is there any, is there any role that uncertainty around the political developments might play in your decision making like any risk mitigation strategies to prepare for policy shifts?",
+        "question_summary": "Does political uncertainty influence decision-making or risk management regarding policy shifts?",
+        "answer": "Not as of now, because much regulation which might help us specifically as a budding business. It comes from the European Union in Brussels. So there is for instance, the packaging and packaging Waste regulation or the European Car Directive. And there is a a European regulation on, on textile waste and they're all centering around the the trouble of having too much waste plastics out there which is not being reused or recycled in any way. So it would have to be a government which actively opposes or obstructs these European regulations to make a real change for us. So we do not really have a risk mitigation strategy to be completely honest.",
+        "answer_summary": "Currently no explicit risk mitigation strategy; regulatory developments at the EU level drive potential risk; change would require government opposition to EU regulations.",
+        "keywords": [
+          "political uncertainty",
+          "risk mitigation",
+          "EU regulation",
+          "Brussels",
+          "packaging waste directive",
+          "textile waste regulation",
+          "car directive"
+        ],
+        "concept_label": "Regulatory environment shaping startup risk",
+        "concept_reasoning": "The response centers on EU-level regulations as the main external risk factor and notes no internal mitigation strategy."
+      },
+      {
+        "question": "And have you actively engaged with policymakers or any advocacy groups regarding startup-related policies?",
+        "question_summary": "Have you engaged with policymakers or advocacy groups about startup policy?",
+        "answer": "My function as a Fraunhofer person... I do. I do know how, in my mind, just my personal environment amongst my group of friends and their acquaintances and their friends. I've been in touch with people who are actively engaged and in politics and well on a... On a community level. Probably 1. Actually, one is working for a member of our delegate of the... What's called... 15:13 MEP member of the European Parliament. So, we've been exchanging ideas. We've been exchanging views. And... But I haven't really been lobbying anyone.",
+        "answer_summary": "Yes, informally connected with politically active people, including an MEP; no formal lobbying activity.",
+        "keywords": [
+          "policymakers",
+          "advocacy",
+          "lobbying",
+          "Fraunhofer",
+          "MEP",
+          "European Parliament",
+          "community level"
+        ],
+        "concept_label": "Policymaker engagement and lobbying intensity",
+        "concept_reasoning": "The answer describes informal, personal-network engagement with policymakers and stops short of formal lobbying."
+      },
+      {
+        "question": "OK. And then I guess the follow-up to that would be how do you perceive the role of entrepreneurs in shaping political discourse? Do you believe startups should actively engage in politics or remain neutral?",
+        "question_summary": "What is the role of entrepreneurs in political discourse; should startups engage in politics or stay neutral?",
+        "answer": "I'm slowly sliding into the role of a startup entrepreneur, it feels like and I have kids, so probably for someone who doesn't sleep or has fewer kids than I have, I don't know. I guess they might find the time. However, I would think that it is extremely useful to do it, because otherwise only the larger companies and the larger the company, the more they usually have the leverage and the possibilities to send a full-time lobbyist somewhere and... Pester politicians about their specific needs. And well, this is just my very personal outlook on it. So I think that it might be actually... just try to continue the sentence where I think it left off... I think it might be difficult for startups to get their problems across because they are, you know, they're splintered basically. There are very often companies with less than 10 coworkers. And if one of them is going to ring the doorbell of the chancellor in Berlin... No one's going to answer. While if BASF or BMW is going to ring the doorbell, they are going to be bloody well answering. So yeah, I think so. Long story short, I think startups should engage in politics. But probably... Of, you know, an association of some sort that might make sense.",
+        "answer_summary": "Supports startups engaging in politics, but notes practical barriers for small firms; advocates for collective lobbying via associations.",
+        "keywords": [
+          "entrepreneurs",
+          "political discourse",
+          "lobbying",
+          "startup engagement",
+          "associations",
+          "policy influence"
+        ],
+        "concept_label": "Entrepreneurial political engagement and limitations",
+        "concept_reasoning": "The speaker argues for engagement but highlights inefficiencies for small startups and suggests organized associations as a path."
+      },
+      {
+        "question": "And then you personally, if you could propose any policy change to benefit startups in Germany, what would it be?",
+        "question_summary": "What policy change would most benefit startups in Germany?",
+        "answer": "Probably something like, going easy on them in terms of taxes. Especially in the, let's say, first two years of the business. Not necessarily by letting them pay less taxes. Although you could think about that, but probably, in how taxes are going to be paid, because from what I know is that self-employed people do have to pay taxes in advance based on their calculations for their next fiscal year, and that might be difficult for startups.",
+        "answer_summary": "Advocates for tax relief or a simpler tax payment regime for early-stage startups, focusing on easier upfront tax obligations rather than outright lower rates.",
+        "keywords": [
+          "tax policy",
+          "Germany",
+          "startups",
+          "taxes",
+          "tax prepayments",
+          "early-stage support"
+        ],
+        "concept_label": "Tax policy for startups",
+        "concept_reasoning": "The suggested change centers on easing tax burdens for early-stage startups, particularly around upfront payments."
+      },
+      {
+        "question": "Would a federal startup agency for Germany, consolidating the programs of the 16 states, be a useful political change to help startups?",
+        "question_summary": "Proposal to centralize state startup programs into a single federal agency in Germany.",
+        "answer": "The 16 federal states in Germany are ever in fear about losing power or control over anything or anyone. So they might not be willing to share what they do and also I mean each of those 16 states is trying to draw businesses because they want the taxes to be paid in their state. So I think they might not be willing to share strategies or share programmes. It might be that they try to stay ahead of each other because there's competition going on between them so that I could see might be obstructing such an idea.",
+        "answer_summary": "States fear loss of power and compete for business/tax revenue; their reluctance to share information could obstruct centralization.",
+        "keywords": [
+          "federal agency",
+          "Germany",
+          "startups",
+          "centralization",
+          "state programs",
+          "timelines",
+          "regulations"
+        ],
+        "concept_label": "Policy coordination and centralization",
+        "concept_reasoning": "The answer centers on the potential benefits of centralizing disparate state programs to streamline startup support, while highlighting state-level governance concerns."
+      },
+      {
+        "question": "OK, and what possible barriers do you see to implementing such changes?",
+        "question_summary": "What obstacles might hinder creating a centralized federal startup agency in Germany?",
+        "answer": "The 16 federal states in Germany are ever in fear about losing power or control over anything or anyone. So they might not be willing to share what they do and also I mean each of those 16 states is trying to draw businesses because they want the taxes to be paid in their state. So I think they might not be willing to share strategies or share programmes. It might be that they try to stay ahead of each other because there's competition going on between them so that I could see might be obstructing such an idea.",
+        "answer_summary": "State sovereignty and competition for revenue make collaboration difficult; reluctance to share strategies could block centralization.",
+        "keywords": [
+          "barriers",
+          "state sovereignty",
+          "power",
+          "competition",
+          "sharing"
+        ],
+        "concept_label": "Intergovernmental barriers and power dynamics",
+        "concept_reasoning": "The response highlights how state-level incentives and competition for tax revenue, plus fear of losing control, can impede cross-state cooperation and central policy initiatives."
+      },
+      {
+        "question": "Any final thoughts on how politics and entrepreneurship intersect? Is there anything else important to mention for the study?",
+        "question_summary": "Closing reflections on politics and entrepreneurship, including cultural attitudes and systemic factors.",
+        "answer": "There could be initiatives in terms of communication or awareness- rising campaigns or something that are from the political spectrums. Do I take it from your accent correctly that you're from the United States? OK so, from what I perceive personally speaking, generalizing massively. If you found a company in the US and you fail and you found another one and you fail, you are a brave person who is pulling yourself up from the mud and trying again. If you do that in Germany, you're a failure and you're belittled and people always knew that you couldn't make it, so failing as an entrepreneur in Germany, it is a stigma. In the US it's more like OK, we’re going beyond the frontier. And yes, there is the risk of failing, but only the fact that you're trying it makes you a brave person. And this is that will lack in Germany and I think politics could contribute to changing this. To yeah, at least, verbally, vocally being outspoken in a way that only welcome entrepreneurship. That, but if it goes wrong, we're not going to punish you in some way. Yeah, I guess I would agree with you on your assumption. I've also noticed that in Germany it's, you gotta get it right the first time, otherwise it can be difficult. Whereas in the United States, you don’t usually succeed until your 4th or 5th business. Yeah. Exactly. Oh yeah. Well, and since I'm now processing stuff. Something that is difficult for people in Germany who found a business and who are ultimately going to be self-employed is the whole... The whole question of health insurance being an employee in a company and being in one of those statutory health insurances in Germany so much easier than being an Entrepreneur with an unsteady and uncertain income probably being in a private health insurance because you're actively endangering your own well-being. The well-being of your family because it might be that you can't pay your premiums and you're going to lose your health insurance, so generally being employed in Germany is a much, much safer thing than being an entrepreneur. Not only the whole tax business that I referenced to earlier, but also Health insurance or when it comes to paying. I know it's a tax, but it's stuff which is deducted from your income, which is for Social Security. That's it. At least it's in... It's been in an article which are. So so that you're the mind you might be getting and some kind of bill where the government basically tells you look, we found that you haven't been paying stuff or you are going to be paying stuff in advance and we're going to need €100,000 from you right now for Social Security stuff. And that, for a startup, might be the end of your whole business because you haven't got €100,000 lying around. Whereas this is never going to happen to an employee, an employee is always able to calculate for the next 20 years exactly what amount of money is coming in, what amount of taxes am I going to pay? That should",
+        "answer_summary": "The answer covers political initiatives (awareness campaigns) and cultural and structural factors: US-Germany differences in attitudes toward failure, potential destigmatization by policy, and the practical burden of health insurance and social security on startups versus employees.",
+        "keywords": [
+          "entrepreneurship culture",
+          "stigma of failure",
+          "health insurance",
+          "social security",
+          "policy support",
+          "risk-taking"
+        ],
+        "concept_label": "Cultural and systemic factors shaping entrepreneurship",
+        "concept_reasoning": "The response links cultural attitudes toward failure with policy’s potential to encourage entrepreneurship and discusses structural safety nets (health insurance/social security) as critical factors for startups."
+      }
+    ]
+  },
+  {
+    "interviewer": "Brandon Ching",
+    "interviewee": "Nadine Roth",
+    "items": [
+      {
+        "question": "OK. Can you please briefly describe your background and what led you to start your company?",
+        "question_summary": "Background and motivation to start the company",
+        "answer": "Coming from a background within HR management, combined with languages—yeah. I want—now I have an additional background, so I decided to deep dive into another direction, which is within health management. So, I would like—with my new startup, with my company—to combine these both: HR management and health management together, and have a social impact also.",
+        "answer_summary": "Background in HR and languages; shift toward health management and a plan to combine them for social impact.",
+        "keywords": [
+          "HR management",
+          "health management",
+          "social impact",
+          "background"
+        ],
+        "concept_label": "Founder background and motivation",
+        "concept_reasoning": "Captures the interviewee's foundational background and motivation to start the company."
+      },
+      {
+        "question": "OK. And how does your previous experience shape your approach to entrepreneurship?",
+        "question_summary": "Impact of prior experience on entrepreneurship",
+        "answer": "To be honest, I don't feel well prepared. Coming from 15 years of working within companies as a long-term employee, we are not really prepared for that kind of stuff. I finished my studies a few years ago, and at that time, I was not really into entrepreneurship at all. So that was something that developed and changed in the last couple of years.",
+        "answer_summary": "Feels unprepared for entrepreneurship; long corporate career; shift toward entrepreneurship recently.",
+        "keywords": [
+          "preparedness",
+          "entrepreneurship",
+          "corporate experience",
+          "education"
+        ],
+        "concept_label": "Transition to entrepreneurship; learning curve",
+        "concept_reasoning": "Describes the learning journey and lack of initial readiness for starting a business."
+      },
+      {
+        "question": "And how did the political climate surrounding the German general elections in 2025 influence your business decisions?",
+        "question_summary": "Influence of the 2025 German elections on decisions",
+        "answer": "Not only topic-related, but also related to the whole financial instability. So this is, of course, a point that affects, I think, every person that is willing to invest in their own business—despite the content. But for myself, it's a topic that is already underprivileged. So it's a marginalized topic with a lot of taboos, which makes it a difficult topic. Then it also includes feminist and queer-friendly approaches, so it involves a lot of insecurities with regards to the whole shift in values that is currently happening in the world—coming from the United States and also from Russia, and increasingly within Europe, with Hungary, Romania, and so on. So this has a huge impact.",
+        "answer_summary": "Election climate and financial instability affect investment; topic is marginalized; broader value shifts influence the venture.",
+        "keywords": [
+          "political climate",
+          "elections 2025",
+          "financial instability",
+          "marginalized topics",
+          "feminist",
+          "queer-friendly",
+          "global shifts"
+        ],
+        "concept_label": "Political climate impact on business; risk and sensitive topics",
+        "concept_reasoning": "Shows how macro-political forces and global value shifts influence decisions and reframing of a stigmatized topic."
+      },
+      {
+        "question": "And what major strategic decisions have you made due to the German general elections in 2025?",
+        "question_summary": "Strategic decisions in light of 2025 elections",
+        "answer": "Originally, I said I would like to collaborate more within politics. Or this is what I do—even more than before—signing more petitions, contributing to parties. So overall, that. But within my specific case, my case is... I do have a lot of other struggles due to the German structure and system of support when it comes to funding and support when it comes to starting my own business. So yeah.",
+        "answer_summary": "Intends to engage more politically, but faces systemic funding and support challenges in Germany.",
+        "keywords": [
+          "political engagement",
+          "funding",
+          "German support systems",
+          "business start-up"
+        ],
+        "concept_label": "Strategic pivots under political context",
+        "concept_reasoning": "Illustrates how political context shapes strategy and reveals institutional constraints."
+      },
+      {
+        "question": "And have you had to pivot or adjust your business model due to any anticipated or actual political shift?",
+        "question_summary": "Pivoting due to political shifts",
+        "answer": "It is... it's a burden when it comes to going out with the business. So I’m reconsidering keeping it a bit quiet and not moving that aggressively forward, because my topic needs to come out louder. And now, the opposite is the case. So I don't know how the world will react. I don't know if I might be prosecuted or if I might have the same clients as I would have had before this change... tech oligarchy what’s happening here from the right side.",
+        "answer_summary": "Considering a quieter launch and slower pace due to risk and potential backlash; uncertainty about reactions and safety.",
+        "keywords": [
+          "pivot",
+          "visibility",
+          "risk",
+          "prosecution",
+          "public reaction"
+        ],
+        "concept_label": "Strategic risk and political shift response",
+        "concept_reasoning": "Captures risk management and reputational considerations in response to political shifts."
+      },
+      {
+        "question": "The whole answer is—yeah, it’s the main point. Uncertainty. But I'm not uncertain about my topic, neither my competencies, nor my business. I’m only uncertain whether I will get enough support when I’m already part of a suppressed group in this world.",
+        "question_summary": "Impact of political uncertainty on decision making",
+        "answer": "The whole answer is—yeah, it’s the main point. Uncertainty. But I'm not uncertain about my topic, neither my competencies, nor my business. I’m only uncertain whether I will get enough support when I’m already part of a suppressed group in this world.",
+        "answer_summary": "Uncertainty centers on external support for a marginalized founder rather than capability or topic.",
+        "keywords": [
+          "uncertainty",
+          "decision-making",
+          "support",
+          "marginalized group"
+        ],
+        "concept_label": "Uncertainty and risk in decision making",
+        "concept_reasoning": "Highlights how external support and status influence strategic choices."
+      },
+      {
+        "question": "And did you implement any risk mitigation strategies to prepare for any political shifts?",
+        "question_summary": "Risk mitigation strategies in politics",
+        "answer": "Yeah, I mean pausing is—for now—it’s not a strategy, but it's something I’ve been forced to do.",
+        "answer_summary": "Pausing operations is used as an informal mitigation tactic.",
+        "keywords": [
+          "risk mitigation",
+          "pause",
+          "strategic pause"
+        ],
+        "concept_label": "Pause as strategy due to political shifts",
+        "concept_reasoning": "Demonstrates how stopping activities serves as a protective measure in a volatile environment."
+      },
+      {
+        "question": "Have you actively engaged with policymakers or advocacy groups regarding startup-related policies?",
+        "question_summary": "Policy engagement with policymakers/advocacy groups",
+        "answer": "Yes.",
+        "answer_summary": "Affirms active engagement with policy actors.",
+        "keywords": [
+          "policy engagement",
+          "advocacy groups",
+          "policymakers"
+        ],
+        "concept_label": "Engagement with policymakers",
+        "concept_reasoning": "Establishes that the interviewee has ongoing interaction with policy actors."
+      },
+      {
+        "question": "What challenges or opportunities have you encountered in this engagement?",
+        "question_summary": "Challenges and opportunities in policy engagement",
+        "answer": "Within politics, I think people are now more aware that we have to have a counter-movement in order to fight for our democracy and for our rights. I do see more civil courage here. I do see a bit of a change when it comes to public media and what topics are now more openly discussed—not with that sense of, “Oh, I don’t know how to communicate this topic because it’s too political.” So the influence, I think, is changing a bit. But to be honest, there is a lot of work to do. I think we should change two easy measures—two easy points that could make a big difference. The Left Party—Die Linke—is focusing on topics like that, but also... yeah. Let’s see what happens in the future.",
+        "answer_summary": "Growing civil courage and more open discourse, with some party-focused focus; much work remains.",
+        "keywords": [
+          "civil courage",
+          "discourse",
+          "policy influence",
+          "Die Linke",
+          "left party"
+        ],
+        "concept_label": "Engagement challenges and opportunities in political advocacy",
+        "concept_reasoning": "Illustrates evolving landscape of political advocacy and potential concrete measures."
+      },
+      {
+        "question": "How do you perceive the role of entrepreneurs in shaping political discourse and influencing policies? Do you believe that startups should actively engage in politics or remain neutral?",
+        "question_summary": "Entrepreneurs' role in political discourse and engagement stance",
+        "answer": "Yes, yes—they should. Everyone should, to be honest. Everyone should, since it has an impact. And especially for entrepreneurs who say they have a social impact. To me, it’s pretty important—and has always been—to have a social impact.",
+        "answer_summary": "Advocates that entrepreneurs should actively engage in politics to maximize social impact.",
+        "keywords": [
+          "entrepreneurship",
+          "political engagement",
+          "social impact"
+        ],
+        "concept_label": "Entrepreneurship and political engagement",
+        "concept_reasoning": "Articulates a normative stance on proactive political participation by startups."
+      },
+      {
+        "question": "Looking back, do you believe that the elections have had a lasting impact on your business strategy?",
+        "question_summary": "Impact of elections on Nadine's business strategy and potential relocation",
+        "answer": "Yes, they did. And it is still currently having an impact, because I’m evaluating whether I might move out of Germany, to be honest—because there are way more startup-friendly countries than Germany.",
+        "answer_summary": "Election outcomes influence strategy and may prompt relocation to more startup-friendly countries.",
+        "keywords": [
+          "elections",
+          "startup strategy",
+          "Germany",
+          "relocation",
+          "policy environment"
+        ],
+        "concept_label": "Political environment impact on entrepreneurship",
+        "concept_reasoning": "The response attributes lasting influence of elections on business strategy and considers relocation, tying political context to entrepreneurial decisions."
+      },
+      {
+        "question": "And so if you could propose a policy change to benefit startups in Germany, what would it be?",
+        "question_summary": "Nadine suggests specific policy changes to boost startups",
+        "answer": "Yes, I would tax the rich. That’s one thing. The other point is: in Germany, we have around 40% of work that is not paid. If we could transform these 40% into a whole economic sector, that would be a huge advantage for the whole country, for the people themselves. We must shift our perspective on what is valuable time—what is time we can refinance, reuse to strengthen our internal market—and use the capacity, the power, the willpower, and the time of people who are already doing this kind of work. We have to give them more credit for what’s happening and use it as an economic market. They can do incredible, incredible stuff. To be honest, what we see in this sector is like a parallel society building up within the whole system. For example, in the public health sector, people don’t find the necessary measures, so they go to private coaches, private healthcare. So it’s a whole other sector, and we could use that to change the perspective on that type of work.",
+        "answer_summary": "Advocates taxing the rich and formalizing unpaid labor to energize the economy and support startups.",
+        "keywords": [
+          "tax the rich",
+          "unpaid labor",
+          "economic sector",
+          "internal market",
+          "Germany",
+          "policy reform"
+        ],
+        "concept_label": "Taxation and revalorization of unpaid labor to boost startups",
+        "concept_reasoning": "The answer centers on tax policy and valuing unpaid labor as an economic activity, framing it as a policy lever for startups."
+      },
+      {
+        "question": "What barriers do you see in implementing such changes?",
+        "question_summary": "Nadine identifies barriers to reform",
+        "answer": "Mindset change is crucial. We do have the opposite happening. The wealthy want to remain in that position. No one wants to give away power. So I see a lot of structural problems—especially when politics doesn't want to tax the rich, then it’s the whole system. The whole system is not working. We are in the final state of capitalism that didn’t work out, and we have to find out how to come through this, or how to overcome it. We cannot expect new outcomes with the same strategies. It has to be completely new. And there are people screaming out internationally, within the EU, asking to “tax the rich” and change this whole society.",
+        "answer_summary": "Highlights mindset and structural resistance to reform; wealth concentration; political inertia.",
+        "keywords": [
+          "mindset change",
+          "power",
+          "structural problems",
+          "tax the rich",
+          "capitalism",
+          "EU"
+        ],
+        "concept_label": "Power dynamics and systemic reform barriers",
+        "concept_reasoning": "Emphasizes resistance from wealthy and political structures and the need for fundamentally new approaches."
+      },
+      {
+        "question": "And do you have any final thoughts on how politics and entrepreneurship intersect? Is there anything we haven’t covered that you think is important to include in the study?",
+        "question_summary": "Concluding thoughts on politics-entrepreneurship intersection and inclusion",
+        "answer": "I think people that are now struggling—and they have good ideas—they should be supported even more. They are not only confronting the same struggles as everyone else, but specifically marginalized people also face systemic challenges here in Germany. So yes, making that clear, pointing that out, and also giving more perspective on how these challenges both support entrepreneurs but also keep them... small.",
+        "answer_summary": "Advocates greater support for struggling and marginalized entrepreneurs and highlight systemic challenges.",
+        "keywords": [
+          "marginalized entrepreneurs",
+          "support systems",
+          "systemic challenges",
+          "Germany",
+          "entrepreneurship"
+        ],
+        "concept_label": "Equity/inclusion in entrepreneurial ecosystems",
+        "concept_reasoning": "Focuses on supporting disadvantaged groups in entrepreneurship and recognizing systemic barriers."
+      }
+    ]
+  },
+  {
+    "interviewer": "Brandon Ching",
+    "interviewee": "Axel Nissler",
+    "items": [
+      {
+        "question": "Okay, can you briefly describe your background and what led you to start your company?",
+        "question_summary": "Background and motivation to start the company",
+        "answer": "After 30 years in the supposedly normal corporate sector, I solved a social problem in 2020, not knowing that social entrepreneurship would then be called social entrepreneurship. For me or for us, the solution to the problem was very clearly centered on the fact that it should be set up as a non-profit, and we then implemented it with a form of company that was naturally closest to us or was closest to us, i.e. a G-U-G and G-G-N-B-H. Of course, we also looked at associations and all the other things.",
+        "answer_summary": "Founder describes a long corporate background and discovering a social problem in 2020, choosing a non-profit oriented organizational form and similar legal structures (GUG/GGNBH).",
+        "keywords": [
+          "background",
+          "motivation",
+          "social entrepreneurship",
+          "non-profit",
+          "organizational form"
+        ],
+        "concept_label": "Background and motivation",
+        "concept_reasoning": "The answer centers on the founder's prior career, the realization of a social problem, and the chosen organizational approach."
+      },
+      {
+        "question": "And what is the core mission of your startup?",
+        "question_summary": "Core mission and value proposition",
+        "answer": "We, German Volunteers, organize the Volunteers for Sport events. And the encounter in sport, in volunteering, is a wonderful lever for bringing people from different bubbles together. And if I have good organizational software, I can also bring together people with disabilities, with a low level of education, with little knowledge of the German language, because people may have a migration background or refugee experience. Exactly. So, we have created a digital infrastructure for volunteering. What is important, however, is that we have not only digitized the search and the offer in the form of an advertisement plate, but have also placed an organizational software behind it that makes the entire volunteer management possible, digitally possible.",
+        "answer_summary": "The startup coordinates sport-related volunteering, promotes inclusion, and offers a digital infrastructure with a backend for volunteer management.",
+        "keywords": [
+          "core mission",
+          "volunteering",
+          "sport events",
+          "digital infrastructure",
+          "inclusion",
+          "volunteer management"
+        ],
+        "concept_label": "Mission and digital platform for volunteering",
+        "concept_reasoning": "Emphasizes the mission to connect diverse people through sport volunteering and the digital tools enabling full volunteer management."
+      },
+      {
+        "question": "And how did the political climate surrounding the German general elections 2025 influence your business decisions?",
+        "question_summary": "Impact of elections on strategy",
+        "answer": "We don't really have high expectations of politicians and the administration. That's why the election now doesn't really change our business approach or the decision of the election. The tailwind that you might wish for has not materialized. To give you an example, when we founded in 2021 and were still nothing, we still got an appointment with the then Federal Minister of the Interior Seehofer and the State Secretary and administration relatively quickly. We also got an appointment relatively quickly with Mr. Beuth, who was the Minister of the Interior and Administration in Hesse at the time, or with Ms. Milt, NRW and Administration. But the exciting thing is that after the third and fourth meeting, we were asked whether we could make the offer available for major national sporting events or in the federal state of Hesse-Volunteers or NRW-Volunteers, which is of course nonsense. In other words, if you think big, think nationally and set up a digital platform, which of course has no boundaries to a federal state or anything else, it's really challenging. Knowing full well that such an engagement platform and such a digital infrastructure needs many showcases, along types of sport, along areas of engagement, along regions, but the region is probably not Hesse-Volontiers, but perhaps the Rhine-Neckar metropolitan region, where we have three federal states, versus Rhine-Main or northern Hesse. These are the framework conditions.",
+        "answer_summary": "Acknowledges limited political support; early engagement with government officials; scale challenges due to regional focus vs national ambitions.",
+        "keywords": [
+          "political climate",
+          "elections",
+          "policy",
+          "government engagement",
+          "national vs regional"
+        ],
+        "concept_label": "Political environment and strategy",
+        "concept_reasoning": "Describes expectations of politicians, early high-level engagement, and the tension between national ambitions and regional realities."
+      },
+      {
+        "question": "have you got to pivot or just your business model due to any potential or actual political shifts?",
+        "question_summary": "Need to pivot due to political shifts?",
+        "answer": "No, so at the moment no. Because when we founded the company it was clear to us that our business model could not be based on income from the public sector, because there was too little predictability and too little long-term planning. Donations are similar. Let's see the refinancing of companies and partnerships with companies by creating or having created a new sponsoring category and thus creating real value or a real offer. the same applies to corporate volunteering and that also has its price for the partners for whom we fulfill it.",
+        "answer_summary": "No pivot needed; the model avoids reliance on public sector funding; explores sponsorship categories and corporate volunteering as revenue streams.",
+        "keywords": [
+          "pivot",
+          "business model",
+          "public sector",
+          "donations",
+          "sponsoring",
+          "corporate volunteering"
+        ],
+        "concept_label": "Business model resilience and diversification",
+        "concept_reasoning": "Highlights deliberate avoidance of public funding and emphasis on sponsorships and corporate partnerships for sustainability."
+      },
+      {
+        "question": "And what role, if any, did uncertainty play, or uncertainty around political developments in your decision making?",
+        "question_summary": "Role of uncertainty in decisions",
+        "answer": "Not so much. What is surprising, not disappointing, is that both politicians are inexperienced in dealing with social entrepreneurs, just as unfortunate is the situation with charities, which also put up quite a wall. And organized sport is also putting up its own walls. In other words, we now have extensive partnerships with the German Athletics Association, triathlon, swimming and five other associations. But the national elite sports association, USB, we are definitely on the move at divisional manager level, but the management or the board has not yet spoken to us, even though seven or eight people have told them that they should talk to us. So the established players find it incredibly difficult to even talk to startups that don't come from their culture. And politics is similar, as I said, it's unusual.",
+        "answer_summary": "Notes limited uncertainty; obstacles in engaging with traditional players and politics; progress with several sport associations; slow engagement at elite level.",
+        "keywords": [
+          "uncertainty",
+          "stakeholder relations",
+          "sport associations",
+          "policy engagement",
+          "gatekeeping"
+        ],
+        "concept_label": "Uncertainty and stakeholder dynamics",
+        "concept_reasoning": "Captures how uncertainty interacts with gatekeeping by established actors and the resulting partnership dynamics."
+      },
+      {
+        "question": "Have you actively engaged with policy-makers or advocacy groups regarding start-up policies?",
+        "question_summary": "Policy engagement and advocacy activity",
+        "answer": "Yes, of course we are a Send member. And what the social entrepreneur or Send as a single player has achieved nationally and regionally in the meantime is really great. When I think back four years ago, when I spoke to the people involved in the TechQuartier in Frankfurt, or also very nicely with Unternehmertum in Munich, they didn't see the topic of social entrepreneurship at all, very far away. And when you saw the SIGU forum last week and see how many federal states now have very stable initiatives and that organizations like entrepreneurship are suddenly embracing social entrepreneurship, then a lot has happened. And I believe that even if there is perhaps not the same tailwind at the federal level as in the last three or four years, for the next three or four years, we can continue to expand and develop this at the federal state level.",
+        "answer_summary": "Active involvement in advocacy networks (SEND); progress in ecosystem support; cooperation with fintech/innovation hubs; regional expansion anticipated.",
+        "keywords": [
+          "policy-makers",
+          "advocacy",
+          "SEND",
+          "TechQuartier",
+          "Unternehmertum",
+          "SIGU",
+          "policy ecosystem"
+        ],
+        "concept_label": "Policy engagement and advocacy networks",
+        "concept_reasoning": "Demonstrates organized involvement with policy/advocacy groups and ecosystem actors, illustrating growth in support for social entrepreneurship."
+      },
+      {
+        "question": "How do you perceive the role of entrepreneurs in shaping political discourse and influencing policies? Do you believe startups should actively engage in politics or remain neutral?",
+        "question_summary": "Entrepreneurs' role in politics and stance on engagement",
+        "answer": "It needs active engagement by A, interests in associations and B,",
+        "answer_summary": "Answer is cut off; expresses that active engagement through associations is necessary, but full argument is incomplete in transcript.",
+        "keywords": [
+          "entrepreneurs",
+          "political discourse",
+          "policy influence",
+          "engagement",
+          "neutrality"
+        ],
+        "concept_label": "Entrepreneurs' political engagement stance",
+        "concept_reasoning": "Intends to advocate for active engagement by entrepreneurs, though the statement is truncated in the transcript."
+      },
+      {
+        "question": "Looking back, do you believe the elections have had a lasting inpact on your business strategy?",
+        "question_summary": "Assess whether elections have lasting impact on strategy.",
+        "answer": "In relation to us? Not at all. A tailwind is something else. Of course, there could be a little more tailwind. But we haven't had any expectations in recent years and have built this up with strong partners, strong corporate partners. At first we thought that social commitment, inclusion, integration and international understanding would be more attractive. But in fact, it's the by-catch that the companies get. First of all, it's a very simple service, exactly, for which they pay something in return. But docking with the CSA and HR department is fine. But it's the classic service, the classic service where the big lever for refinancing German Volunteers comes in.",
+        "answer_summary": "Elections have had no lasting impact; growth driven by partnerships and a straightforward service model rather than policy tailwinds.",
+        "keywords": [
+          "elections",
+          "impact",
+          "tailwind",
+          "partnerships",
+          "service model",
+          "CSA",
+          "HR",
+          "German Volunteers"
+        ],
+        "concept_label": "Limited political impact; strategy driven by partnerships",
+        "concept_reasoning": "The answer emphasizes that elections had no lasting impact and the strategy is built on partnerships and a simple service; thus label centers on limited political influence and reliance on partnerships."
+      },
+      {
+        "question": "And if you could propose a policy change to benefit start-ups in Germany, what would it be?",
+        "question_summary": "Propose a policy change to help start-ups in Germany.",
+        "answer": "Opening up all support programs, all tools or that in all tools that the policy has to promote companies, non-profit and public-interest oriented companies are also considered and placed on a similar or the same level of priority. Many of these funding programs or tools are simply not intended for non-profit GmbHs, non-profit AGs and so on.",
+        "answer_summary": "Policy should include non-profit/public-interest entities in funding tools and treat them with equal priority as for-profit companies.",
+        "keywords": [
+          "policy change",
+          "start-ups",
+          "Germany",
+          "support programs",
+          "non-profit",
+          "public-interest",
+          "funding tools",
+          "equal priority"
+        ],
+        "concept_label": "Inclusive policy framework for start-ups/non-profit entities",
+        "concept_reasoning": "The answer calls for broadening policy tools to include non-profit/public-interest actors and to treat them on par with for-profit entities."
+      },
+      {
+        "question": "What barriers do you see to implementing such changes?",
+        "question_summary": "Identify barriers to policy changes.",
+        "answer": "In my opinion, the biggest barriers are not the proportion of people in politics and administration, but the interest groups around them. These are the traditional welfare percentages, organized sport and so on and so forth, who see many risks for their organization from new, innovative players and no opportunities. They are preventing this at the start.",
+        "answer_summary": "Barriers include vested-interest groups resisting innovation, not just political processes.",
+        "keywords": [
+          "barriers",
+          "politics",
+          "administration",
+          "interest groups",
+          "welfare",
+          "incumbents",
+          "resistance to change"
+        ],
+        "concept_label": "Barriers from interest groups/vested interests",
+        "concept_reasoning": "The answer attributes obstacles to entrenched interest groups protecting incumbents and resisting new entrants."
+      },
+      {
+        "question": "Do you have any final thoughts on how politics and entrepreneurship intersect? Maybe anything that we haven't discussed that you think is important to include in the study?",
+        "question_summary": "Final thoughts on politics-entrepreneurship intersection and ecosystem.",
+        "answer": "Cooperate, collaborate, strengthen, bundle. There is no need to reinvent many things in this area either. Phineo and the Scala initiative are very strong players. In Duisburg, there is the Impact Factory and other Antropians who have eight or ten years of experience in making social enterprises big and supporting them. Yes, cooperating, thinking big, working together. Exactly, because there is also a tendency for social enterprises to forget these elements at some point when scaling. Or that in many cases scaling is not possible because a social enterprise achieves this growth and this scaling on its own, but often has to give up its own identity or its own little plant in order to become stronger together. Making the topic known. The topic of social entrepreneurship is completely unknown. I would say that nine out of ten people don't know that you can solve social problems and challenges with entrepreneurial approaches. And that applies to all groups. It also applies to traditional family businesses, large and small, and the people involved in very large companies.",
+        "answer_summary": "Advocates collaboration within an ecosystem, warns against losing identity during scaling, and emphasizes broader awareness of social entrepreneurship.",
+        "keywords": [
+          "collaboration",
+          "ecosystem",
+          "scaling",
+          "identity",
+          "awareness",
+          "Impact Factory",
+          "Scala",
+          "Phineo",
+          "Antropians"
+        ],
+        "concept_label": "Ecosystem collaboration and awareness to scale social enterprises",
+        "concept_reasoning": "Answer emphasizes collaboration, leveraging existing players, and increasing awareness; discusses scaling risks and need for collective effort."
+      }
+    ]
+  },
+  {
+    "interviewer": "Alexander Hertel",
+    "interviewee": "Markus Lehmann",
+    "items": [
+      {
+        "question": "Then first of all, maybe walk us through your personal career history and how this has led to your current role.",
+        "question_summary": "Ask about Markus Lehmann's career history and path to being Finance Director at IBB Ventures.",
+        "answer": "I'm working as the finance director at IBB Ventures. I started here in the year 2000. So over 20 years in the venture capital business. Now IBB Ventures was founded in 1997. We are part of the IBB, the Investment Bank Berlin, this business promotion bank of the state of Berlin. And IBB Ventures was founded to take care of the venture capital business, which is a little bit difficult to do directly out of the bank. Since 2004 we are using ERDF money from the European Union in combination with money provided by the IBB and since 2022 we also have started an impact fund. So far we had a tech fund. This was what we did since 1997. The classical tech investments in venture capital. And since 2008, we also have an fund for creative industries, because this is an important industry in Berlin. And since 2022 also the impact investing fund that has a volume of €30 million and the total volume of our current fund generations €120 million, which we only invest in Berlin based startups.",
+        "answer_summary": "Markus describes his long tenure, IBB Ventures' origins and funding structure: EU ERDF funding since 2004, 2022 impact fund; past tech fund and creative industries fund; current fund size €120m; invest only in Berlin-based startups.",
+        "keywords": [
+          "career history",
+          "finance director",
+          "IBB Ventures",
+          "venture capital",
+          "ERDF",
+          "EU funding",
+          "impact fund",
+          "tech fund",
+          "creative industries fund",
+          "Berlin-based startups",
+          "fund size"
+        ],
+        "concept_label": "Organizational history and fund structure",
+        "concept_reasoning": "This item sets Markus's background and explains the fund architecture and funding sources, establishing context for the rest of the interview."
+      },
+      {
+        "question": "Maybe describe especially within the impact funds that you mentioned, what's the mission and the vision behind this fund?",
+        "question_summary": "Request for mission and vision of the impact fund.",
+        "answer": "We are 100% public funded and every Euro that is returned to the fund is invested again. So no private investors, we have to make a happy. We are working for promoting the venture capital and startup ecosystem in in Berlin. And I think it's fitting for a public venture fund not to do just a business promotion, which is of course, the one aim of this venture capital business here, but also look inside the companies what they are they doing with the money and besides creating new jobs in start up companies, can we have an added value with a business model within the company. Added value for society or for the environment and that is the idea behind an impact investing fund. This impact fund is also funded by the European Union, 40% is ERDF and the rest is reflows from the tech and Creative Fund. We are using this reflows to create a new instrument here in Berlin the the Impact Fund. Of course, not every startup we are looking into is suitable for the impact fund that we have. We are investing in base technologies or enabling technologies that you often cannot determine the impact. Because the impact is depending on what is the customer doing with your software technology or whatever or the the impact is only visible in a very long term. And we as a venture fund are usually invested for five, seven, ten years. And if you do for example Biotech drug development, in most cases if the drug is successfully developed, we will sell the company before this is going to the market. So we cannot measure in impact how many people are affected by this drug. We can't measure because we are not a shareholder anymore when the impact is achieved. So it's important to have both, impact fund for startups with measurable impact and tech fund and creativecompanies. So no one nobody is dropping out of adventure financing. Because we we have this broad approach and it makes sense not to just focus on one technology here in Berlin, because we have this strict regional focus. So for a venture fund it is important to have enough deal flow because only two to three percent of the applicants are suitable for venture financing in the end. So the market has to be big enough to place this 120 million Euro.",
+        "answer_summary": "The fund is 100% publicly funded with profits reinvested and no private investors. The mission is to promote Berlin's VC/startup ecosystem and to create added value for society/environment, with impact criteria embedded in the business model. The fund is EU-funded (40% ERDF) with the remainder coming from reflows from the tech/creative funds. Not every startup fits the impact mandate; focus on base/enabling technologies and long horizons (5–10 years). Biotech example illustrates measurement challenges; broader approach requires a sufficient local deal flow to place €120m.",
+        "keywords": [
+          "public funding",
+          "impact fund",
+          "Berlin",
+          "EU ERDF",
+          "reflows",
+          "tech fund",
+          "creative fund",
+          "base technologies",
+          "long-term horizon",
+          "Biotech example",
+          "deal flow"
+        ],
+        "concept_label": "Public funding and impact fund governance and constraints",
+        "concept_reasoning": "This item describes the fund’s governance, funding sources, mission, and practical constraints, including how impact is pursued and measured across a broad technology spectrum."
+      },
+      {
+        "question": "When you talk about impact and impact investing, do you use a specific definition of what you see as impact and as impact investing in your case?",
+        "question_summary": "Definition of impact investing used by the fund.",
+        "answer": "Yeah, we are also member of the Bundesinitiative Impact Investing and I think they have a quite fitting definition of impact investing. So it's five criteria says that are important: First of all, it has to be a real business that is at least in the middle and long term able to generate a profit. This very important. Then the impact has to be integrated into the business model not as an add on impact. For example sell a conventional product and use the revenue to do something else: Plant the three or something like this. The product itself has to generate an impact. This is very important. Then the impact has to be intended. Means for us: the Founders are doing this because of the impact. It's not just a by product for them. And very important is the measurability, so we have to be able to measure the impact. If it's too long term and we can't measure anything, then it's not for the impact fund. Maybe for the tech fund. And a third point is the positive impact has to be much bigger than the negative impact, that are usually connected to every business activity you have. You use resources in the end, and so there's always a negative impact, too. But the positive impact has to be much bigger.",
+        "answer_summary": "Definition uses Bundesinitiative Impact Investing criteria: real sustainable business; impact integrated in the business model; intended by founders; measurable; net positive impact bigger than negative.",
+        "keywords": [
+          "definition",
+          "Bundesinitiative Impact Investing",
+          "criteria",
+          "profit",
+          "integration",
+          "intended",
+          "measurability",
+          "net positive impact"
+        ],
+        "concept_label": "Impact investing criteria",
+        "concept_reasoning": "This item articulates the definitional criteria used by the fund to classify and evaluate impact investments."
+      },
+      {
+        "question": "We're coming back to the measurement in a second. But first of all, maybe can you walk me through the first touchpoint you have with a startup and what's the process that follows until you make an investment decision?",
+        "question_summary": "Initial touchpoint and process to investment decision.",
+        "answer": "So we have multiple channels because we are only active in in Berlin. It's for us the chance. We try to see every deal that is done in Berlin. So there are multiple approaches: A lot of enquiries are coming by our websites or startups approaching us. But it's this is",
+        "answer_summary": "Deal sourcing via multiple channels in Berlin: inbound inquiries and outreach; screening leads toward investment decision (note: transcript cuts off).",
+        "keywords": [
+          "deal sourcing",
+          "Berlin",
+          "inbound inquiries",
+          "websites",
+          "outreach",
+          "investment decision",
+          "screening"
+        ],
+        "concept_label": "Deal sourcing channels",
+        "concept_reasoning": "This item centers on how the fund identifies and starts evaluating potential investments, via multiple sourcing channels in the Berlin ecosystem."
+      },
+      {
+        "question": "And in this process, until you make an investment or positive investment decision, how do you generally evaluate a start up and also how specifically do you evaluate the impact or the potential of impact of from a start up?",
+        "question_summary": "How do you evaluate startups generally and assess their impact potential?",
+        "answer": "So if you look into a startup, quite early on we decide, is it something for the impact fund or more for the for the classical tech funds. Of course we ask the founders, if are in their own belief an impact startup or not. So this is the first important thing and we look into, what can be measured in this start up regarding the impact. 10:12 Only if these two things are given, then we would put this into the impact fund. If not, it's more omething for the tech fund. And the other things are classical venture due diligence. So how is the potential for scaling, the business is very important, the founding team of course is is very important. Do they have former experiences or how clear is their approach is this. This is a sound approach because we see a lot of businesses. We also have financed over 180 companies in the last more than 20 years. So I think we have a very quite good idea if this can work or not.",
+        "answer_summary": "Decision on whether to route a startup to the impact fund or the tech fund based on founders' belief and measurable impact, followed by standard due diligence on scaling and team; long track record cited.",
+        "keywords": [
+          "impact fund",
+          "tech fund",
+          "founder belief",
+          "impact measurement",
+          "due diligence",
+          "scaling potential",
+          "team experience",
+          "track record"
+        ],
+        "concept_label": "Impact-aligned investment decision and due diligence",
+        "concept_reasoning": "The answer describes how investments are categorized into impact vs tech funds based on founders' belief in impact and measurable impact, plus traditional due diligence and a long track record."
+      },
+      {
+        "question": "And when it comes to measuring the impact, do you use specific frameworks or criteria to to measure and also predict and manage the impact of a start up for the impact fund?",
+        "question_summary": "What frameworks/criteria are used to measure and predict impact for the fund?",
+        "answer": "We are using, which is quasi the market standard, the IOOI model. So go from the input to the output, outcome, and impact. And the impact fund is investing along the the SDGs. So it's a very broad scale, not just climate or health. It's a health, climate, education, fight against poverty, sustainability. So it’s a very broad approach.  And in the end you have to identify suitable indicators for each business model. So we don't have a fixed set of of indicators because we don't know yet, what kind of companies we will finance in the end. It's easier if you have just the climate funds and you can measure CO2 equivalents. But as we don't have this narrow focus, which doesn't make sense for us with this strict region of focus, ee don't know the the indicators in advance and you have to find indicators suitable for each and every investment.  And we developed this together with a with the founders. Some already have a kind of a concept. But we do this in the course of the due diligence and there has a lot of work to go into this planning of the impact. And it's not just planning numbers, but also how do you get the data then? In many cases you need quality data. So if you work in your education project, usually you have to do questionnaires. You have to also ask your participants, if you want to know not only how many people have participated in a workshop or something like this, but also did they learn something and did what the learned help them to tackle their problems.  And to get this this data you have in advance a plan",
+        "answer_summary": "Uses IOOI model (input-output-outcome-impact) and SDGs; indicators are customized per business model; data collection requires planning and quality data, e.g., via questionnaires for education projects.",
+        "keywords": [
+          "IOOI model",
+          "SDGs",
+          "indicator customization",
+          "data quality",
+          "data collection",
+          "questionnaires",
+          "education projects"
+        ],
+        "concept_label": "IOOI-based impact measurement with customized indicators",
+        "concept_reasoning": "The answer emphasizes the IOOI framework, SDG alignment, lack of fixed indicators, and need for customized data collection strategies per investment."
+      },
+      {
+        "question": "You already touched it, when it comes to collecting and validating data. Do you have like a template for all your founders or your investments? Or do you do individual plans for every company that you invest in?",
+        "question_summary": "Template vs. individualized data plans for due diligence",
+        "answer": "Currently we are doing individual plans because we are also new investor in this. But I think for us, it's makes a lot of sense to have some kind of template. So we have an idea, what has to be in this template. So far we have we have found five impact startups and also from from very different areas. So we are still working on a best practise to have a template for these companies. 16:17 Because you have such a big network of co-investors, we also did investments out of our technology fund and creative fund with impact investors. […] They have this impact planning and we were able to to get these impact planning tools for joint investment. So we have quite a good overview what’s the current best practise in the market and are adhering to this best practise. But yeah, I think a kind of template that is suitable for different areas is in a work in progress with us.",
+        "answer_summary": "They currently use individualized diligence plans; considering a template to guide what should be included; leveraging co-investor tools and ongoing work on best practices for a reusable template.",
+        "keywords": [
+          "data collection",
+          "due diligence",
+          "template",
+          "individual plans",
+          "best practice",
+          "impact startups"
+        ],
+        "concept_label": "Data collection planning and templating",
+        "concept_reasoning": "The answer centers on template vs. individual plans for due diligence data and the pursuit of a reusable template, including external tools."
+      },
+      {
+        "question": "And apart from the impact and measuring the impact, are there any other criteria that play a role in the investment decision, apart from financial and impact criteria? So anything specific, that you that you have developed?",
+        "question_summary": "ESG and risk criteria supplement financial and impact assessments",
+        "answer": "Yeah, what is more and more important, not just for impact investing, but also for the classical investment is the is the ESG topic or is a risk assessment. Are there any negative aspects you should mind when when investing? And this is something we do for for every investment. The startups have to fill out an online questionnaire which is in cooperation with a Berlin based company. […]  So I see a lot of such questionnaires from different different providers. Most of them are not targeted on startup companies, more on older companies where you have to fill in greenhouse gas emissions up to Level 3, which doesn't make much sense for a company with less than 10 employees. If you do a first investment with less than 10 employees, 0 revenues, there's no need to ask them for greenhouse gas emissions. They don't have the numbers and the effort to get these numbers would be too high for not a lot of insight you get.  But to have such a questionnaire is more for us to identify an area where we should have it deeper look. So if a company is producing something physical, then the supply chain might be an important issue. Where are they planning to get their raw material materials from and so on? If this is just a software company, this might be not an issue, but then you have maybe an issue with data protection and so on.  So it's a questionnaire which can be filled out by a founder in 30 minutes to one hour, but he doesn't have to look up numbers. That's important. So just to get a feeling, if there are areas in your diligence, where we should have a deeper look. But this is something that is now quite common to do such ESG assessment also with private funds. So we are not outlier anymore with this.",
+        "answer_summary": "ESG and risk assessment are increasingly important as part of due diligence; use of a quick ESG questionnaire to flag areas for deeper review; not all metrics (e.g., greenhouse gas for tiny startups) are relevant; helps identify risk areas.",
+        "keywords": [
+          "ESG",
+          "risk assessment",
+          "diligence questionnaire",
+          "startup-specific",
+          "private funds"
+        ],
+        "concept_label": "ESG and risk assessment in due diligence",
+        "concept_reasoning": "The answer emphasizes ESG and risk assessment as an essential, process-efficient addition to due diligence, including the use of a lightweight questionnaire."
+      },
+      {
+        "question": "Now let's talk about the final investment decision you have. All the data you have the due diligence, you have the financial predictions, the impact measurement. Maybe can you explain how in the final decision all these aspects are interrelated and what kind of impact they have on the investment decision? So is it in the end still more the financial predictions then the impact? Are they 50:50? How does it look like?",
+        "question_summary": "How are financial, impact, and ESG data integrated in the final investment decision? Is it 50/50?",
+        "answer": "The final investment decision is made by an investment committee. The committee is internal with us, because we want to act fast. So we don't have an external board that is doing investments decision once a month. We can do this internally, usually four people: our CEOs and the the team that is working on the case.  The base for this investment committee is the document, usually 30 to 40 pages, where the investment manager responsible for the case is writing down everything you have to know for this for this case. Including the impact, the planning, amount we're investing? WWho are the Co-investors? Who are the founders? So everything that is important for the due diligence. Also the criteria that comes from the EU. Also there's this ESG assessment and in case of impact investments, there is a impact planning.  Everything is in this document and the final decision is a meeting. And in this meeting also the founders are present once again in front of this investment committee and the committee members can then ask questions. And after this meeting the decision has to be unanimously from all investment committee members.  We factor in as well the financials, the risk is important and the likelihood this succeeds. And there's often a spread, as you have some cases where the growth potential might not be that high, but you have a lower risk of failure. Experienced founders, technology is is not a very high risk. And maybe in other cases the potential return is very high, but also the risk is very high.",
+        "answer_summary": "Decision is taken by an internal investment committee; a comprehensive 30-40 page document consolidates all data (impact planning, EU criteria, ESG, financials, co-investors, founders); decision is made in a meeting and must be unanimous; financials and risk are weighed, with trade-offs between growth potential and risk.",
+        "keywords": [
+          "investment committee",
+          "unanimous decision",
+          "due diligence document",
+          "impact planning",
+          "EU criteria",
+          "ESG",
+          "risk"
+        ],
+        "concept_label": "Integration of financial, impact, ESG in decision-making by internal committee",
+        "concept_reasoning": "The answer details how all data types are consolidated into a single decision-making document and debated in a committee, with emphasis on consensus and weighing risk vs return."
+      },
+      {
+        "question": "And now you've touched already some, let's say, blind spots of the process of evaluating impact startups. What would you say are the biggest changes needed in this sector in impact investing to make even better decisions in the future, measure impact, better predict impact better and so on?",
+        "question_summary": "What are the biggest changes needed in impact investing to improve decision-making and impact measurement?",
+        "answer": "One reason for us to establish an impact fund is because we see this is getting a lot of traction over the past years. But it's still a green field, you can say. So there are some older players, but many new players and it’s not so standardised right now. That's why it's important for us to work in these initiatives to talk to the Co-investors. Because you want to be also part of the development of standards and best practises in this area. That's why for example, we are working in a work group in the BII for on the topic of impact due diligence. So what should be covered if you do an impact due diligence? What aspects are important and what is the best practise in this area?",
+        "answer_summary": "Argues for standardization and collaboration, citing participation in industry groups (BII) and focus on defining impact due diligence standards and best practices.",
+        "keywords": [
+          "impact fund",
+          "standardisation",
+          "best practices",
+          "impact due diligence",
+          "co-investors",
+          "BII",
+          "standards"
+        ],
+        "concept_label": "Standardisation and best practices in impact due diligence",
+        "concept_reasoning": "Highlights need for standardized impact due diligence and active involvement in industry groups to develop and share best practices."
+      },
+      {
+        "question": "And in order to change this, what do you think must happen? There needs to be more impact startups, more money for impact investing or just better matching between both.",
+        "question_summary": "What must happen to improve the impact investing ecosystem?",
+        "answer": "I think there are already a lot of impact startups, but sometimes there are a lot of companies that are generating positive impacts in social economy. In Berlin it is quite a broad space. You often have to explain that that venture capital is like a classic start up area and not for everyone. It's a very small target group that is suitable for venture financing. So in the end the companies have to meet also the venture capital criteria: highly scalable, profit in the end. So we always have to explain a lot, what kind of companies we are looking for, because we need the scaling effect to generate a relevant impact with venture capital and also to generate in the end returns that we are then able to reinvest. And a lot of companies that approach us are not venture suitable. But the good thing is, with the with the Investitionsbank in our back, there are a lot of programmes from the IBB which also are open for for for companies that are not venture companies, but sound businesses. And we can always connect them to the IBB and maybe they get a funding there. That's important. So matching is one topic. What is very interesting for us is with the five investments we have done so far we were able to find new co-investors, that we haven't invested with before. So in many cases impact orientated investors. So it's for us a way also to expand our investor network, that's a side effect. And matchmaking is always a topic.",
+        "answer_summary": "Emphasizes VC criteria and the need for available funding pathways (including public programs like IBB) for non-venture startups; highlights importance of investor matchmaking to grow the network.",
+        "keywords": [
+          "venture capital criteria",
+          "Berlin market",
+          "IBB",
+          "funding programmes",
+          "non-venture startups",
+          "matchmaking",
+          "co-investors"
+        ],
+        "concept_label": "Venture-capital criteria and funding access; investor matchmaking",
+        "concept_reasoning": "Centers on how to align portfolio with VC expectations, use of public financing channels, and the role of matchmaking to expand investor networks."
+      },
+      {
+        "question": "How does fundraising differ between classical startups and impact startups, and how many investors do you typically need to approach to secure financing?",
+        "question_summary": "Comparison of fundraising dynamics for classical vs. impact startups and the typical number of investors to approach.",
+        "answer": "Also for classical startups to find an investor, in most cases you have to approach a lot of potential investors and find in the end the consortium. It's the same for us. So if you only invest in two percent and in the end, maybe of the startup companies 20 to 30% get a financing, you have to approach maybe at least 10 to 20 potential investors to to find financing. It's the same for impact startups. But it's I think it's an advantage if you have an impact startup. So there there is not so much competition. So it's something you can put on the table. I would say it's easier for an impact startup to get a financing than a classical tech startup. Maybe because there are not so many impact startups yet. So if you are on this path, it is worth to to put effort in this. It's a additional effort for the startups of course, because they don't have not just a financial business plan but also an impact business plan. So it's additional effort, but it might be worth it because you're can approach additional investors with this concept.",
+        "answer_summary": "Fundraising requires broad investor outreach for both types; impact startups may face less competition and be easier to finance, but they must prepare an impact business plan in addition to a financial one; typical outreach is around 10–20 investors to secure financing.",
+        "keywords": [
+          "fundraising",
+          "investors",
+          "consortium",
+          "financing rate",
+          "2 percent stake",
+          "10-20 investors",
+          "impact startups",
+          "competition",
+          "classical startups",
+          "impact business plan",
+          "financial business plan",
+          "additional effort"
+        ],
+        "concept_label": "Fundraising dynamics: impact vs. classical startups",
+        "concept_reasoning": "This item centers on the comparative fundraising effort and competitive landscape between impact and classical startups, highlighting the need to approach multiple investors and the added requirement of an impact business plan for impact startups."
+      }
+    ]
+  },
+  {
+    "interviewer": "Brandon Ching",
+    "interviewee": "Claudia Decher",
+    "items": [
+      {
+        "question": "OK. First question, can you briefly describe your background and what led you to start your company?",
+        "question_summary": "Background and motivation leading to startup",
+        "answer": "I used to be a social scientist for political science. Then I studied informatics, and I was a software developer before I started the startup.",
+        "answer_summary": "Diverse background spanning social science and tech, leading to startup.",
+        "keywords": [
+          "background",
+          "social scientist",
+          "informatics",
+          "software developer",
+          "startup"
+        ],
+        "concept_label": "Founding motivation and background",
+        "concept_reasoning": "The answer explains the interviewee's historical background and what motivated the startup, highlighting the shift from science to tech and a drive to address a social issue."
+      },
+      {
+        "question": "How did your previous experience shape your approach to entrepreneurship?",
+        "question_summary": "Impact of prior experience on entrepreneurial approach",
+        "answer": "To be honest, I never wanted to be a founder. The reason why I started the company is because — well, what we do is we help people with eating disorders. I used to have an eating disorder, and when I came into this recovery area where I thought, 'OK, what options do I have?' I saw that there were no options except clinics, group therapy, and more therapy — which is what I had already been doing. And I thought, 'OK, that can't be right. I want to — I'm going to do something in that area.' So it was more like frustration. I never thought, 'Oh, one day I want to become a founder.'",
+        "answer_summary": "Founder did not intend to found; motivation came from frustration with insufficient recovery options for eating disorders; personal experience shaped mission.",
+        "keywords": [
+          "founder intent",
+          "personal experience",
+          "eating disorders",
+          "recovery options",
+          "frustration"
+        ],
+        "concept_label": "Motivation by lived experience",
+        "concept_reasoning": "The answer shows how personal experience with eating disorders and dissatisfaction with existing solutions motivated entrepreneurial action."
+      },
+      {
+        "question": "OK. And now getting into the more political conversation. How did the political climate surrounding the German general elections in 2025 influence your business decisions?",
+        "question_summary": "Influence of German 2025 elections on business decisions",
+        "answer": "That — like not at all. Like, I mean, we're — I'm saying we're a tiny startup. We're not making a lot of money, so I mean, I read that they were maybe going to stop any help that was given to startups in the years before, which is why I signed up for this interview. Because I wanted to tell you guys that this was what made us do the startup. What gave us the opportunity to even work on this — because there was this money. So I'm very sorry for any startup that wants to do anything because they're probably not going to get that money.",
+        "answer_summary": "Politics had little direct influence; funding expectations and potential government support shaped the motivation to participate in the interview; reliance on potential subsidies.",
+        "keywords": [
+          "political climate",
+          "Germany 2025 elections",
+          "start-up funding",
+          "government support"
+        ],
+        "concept_label": "External funding policy uncertainty",
+        "concept_reasoning": "The response centers on funding expectations and limited direct impact of politics on day-to-day decisions."
+      },
+      {
+        "question": "Have you had to pivot or adjust your business model due to any anticipated or actual political shift?",
+        "question_summary": "Pivot or adjustments due to political shifts",
+        "answer": "Yeah. Well, no. I mean, we’re tiny, right? We’re like in the very beginning. I’m not sure if I’m the right person you should be talking to, but I can. Well, I’ll just share. Well, we never founded the company because it’s too expensive to actually build a GmbH. So we’re still a GbR, with good AGBs hoping that nobody will sue us and we don’t go to jail. Yeah. So we just kept it very small because there’s not a lot of investment happening in this area. And everybody’s like, 'Oh, you’re doing social impact — great — I’m going to share this on LinkedIn, but I’m not going to give you any money.' 3:34 And well, the health system is super complicated, so to work with health insurance you need a lot of money to get to all the standards. And then you develop a product that helps the health insurance but not the actual patients. So I think we kind of always drove with — like we were not very forward. We were very scared of taking too many risks because we knew that it was going to be very, very difficult to get into this area with a business that would actually make enough money — like reading everything about how all the businesses fail and how they make absolutely no money because the health insurance companies have so much power. 4:21 Yeah, once we learned all about that, we were sort of trying not to go into that direction — trying to find other ways — which is super difficult because everyone in Germany expects their health insurance to pay everything, me included. So yeah, that just makes it very difficult. Sorry, I don’t know if I answered your question.",
+        "answer_summary": "No major pivot due to political shifts; structural constraints (GmbH cost, GbR status), funding scarcity, and health-insurance complexity shaped cautious growth.",
+        "keywords": [
+          "GmbH vs GbR",
+          "funding scarcity",
+          "health insurance system",
+          "risk aversion"
+        ],
+        "concept_label": "Constraints shaping strategy and risk management",
+        "concept_reasoning": "The content indicates strategic constraints rather than pivots driven by political shocks."
+      },
+      {
+        "question": "And does uncertainty play a role — or what role does uncertainty play — in your decision-making? So uncertainty in political developments in that area.",
+        "question_summary": "Role of uncertainty in decision-making under political uncertainty",
+        "answer": "Umm... I mean, to be honest, I’m very skeptical. Like, they say, XYZ will happen in four years, and I’m thinking, how am I gonna survive four years? Things are slow. Nothing’s happening fast. They’re making life so difficult for anyone who wants to build a startup. There’s no money. You can’t survive. You basically don’t even exist. You’re living off so little money. In the end, you are a sozialfall because you don’t earn money. It was super hard for us to get people to come into our startup and work for us because they said, 'On this money I can’t survive.' Or they said, 'OK, I want to work on this project, but I can only do part-time because I need to work somewhere else,' which wasn’t allowed. So there’s a lot that made it super difficult. Like, you had to hire very junior people. And with very junior people, obviously you move a lot slower than if you have people with a lot of experience. Sorry, what was the question again? Just about uncertainty of political developments — if that plays a role. Yeah. I mean, a lot of people told us — we were applying for more funding — and then they told us, 'You have to be quick because once the government changes, this money...",
+        "answer_summary": "Policy timelines create long horizons; sustained uncertainty leads to risk-averse hiring and financing; slow progress due to staffing constraints.",
+        "keywords": [
+          "uncertainty",
+          "policy timelines",
+          "funding",
+          "hiring",
+          "slow progress"
+        ],
+        "concept_label": "Policy uncertainty and organizational risk",
+        "concept_reasoning": "The answer emphasizes skepticism about policy timelines and the impact on operations and staffing; uncertainty shapes decision-making and risk tolerance."
+      },
+      {
+        "question": "How are we ever gonna get to work with health insurance if I have to get a medical product, which is gonna cost me €100,000? Where am I gonna get €100,000?",
+        "question_summary": "Interviewer asks about funding barriers to cover health-insurance-related product costs and personal financial risk.",
+        "answer": "Where am I gonna get €100,000? If I get €100,000 from investors, they only pay for the medical product — they don’t include me. This all didn’t make sense.",
+        "answer_summary": "Describes that investor funds cover only product costs and not personal living costs; highlights perceived incoherence of funding schemes.",
+        "keywords": [
+          "health insurance",
+          "€100,000",
+          "funding",
+          "investors",
+          "costs",
+          "startup"
+        ],
+        "concept_label": "Funding constraints and personal financial risk",
+        "concept_reasoning": "The speaker highlights financing obstacles and mismatch between investor support and personal costs, risking insolvency."
+      },
+      {
+        "question": "And have you actively engaged with policymakers or advocacy groups regarding startup-related policies?",
+        "question_summary": "Inquiry about engagement with policymakers/advocacy groups by the interviewee.",
+        "answer": "No. No, I never... Well, I went to events, but I didn’t really — to be honest — I don’t feel like I have any influence. Like, what? I’m a tiny person with a tiny project that apparently nobody cares about. So I didn’t feel like I had any power. I mean, I know there’s Incar Ventures, and they talk to politics, and I went to the events. And they have all these big plans — get more women to be investors, blah blah blah — but in the end, it doesn’t happen. It doesn’t happen. Then they get exist. Women exist. Women — it’s like a joke. And then I hear people complaining to me. Oh, why do women get special programs? Why don’t they have to compete with men? And yeah, so no, in the end, I didn’t really directly interact with anyone. No.",
+        "answer_summary": "Expresses lack of influence; minimal direct engagement; perceives policy initiatives as ineffective or symbolic.",
+        "keywords": [
+          "policy engagement",
+          "advocacy",
+          "Incar Ventures",
+          "gender programs",
+          "no influence",
+          "events"
+        ],
+        "concept_label": "Limited influence and ineffective policy engagement",
+        "concept_reasoning": "The interviewee describes no direct influence and skepticism about policy advocacy effectiveness; experiences with gender initiatives are dismissed as symbolic."
+      },
+      {
+        "question": "Yeah. And do you think — or I guess — how do you perceive the role of entrepreneurs in shaping political discourse and influencing policy? Do you believe startups should actively engage in politics or more remain neutral?",
+        "question_summary": "Interviewer asks about role of startups in policy and whether to engage politically.",
+        "answer": "I mean, how can politicians learn how we work if they don’t speak to us? So I think it’s super important for startups to speak to politicians. But on the other hand... I don’t see that anything is changing. Like, I mean, if the UK was still part of the European Union, I would have probably founded a limited with €150. Now I can’t do a lot of things because I’m not an UG, but if I form an UG, I have so many costs that I can’t cover. So I’m trying to have this business on a very — like — everything is very cheap, everything works, but it’s not... yeah. I don’t know. It could be so much easier. Why do I have to go to the notary to build a €1 company and pay €2000 that I don’t have? And then you get the money from EXIST and you can only spend it on this, this, and that. Oh no, that can’t — you can’t spend the money on this. But yeah, I mean, there’s some attorneys who already know, so they kind of write something else in the invoice and then it works. But it’s so complicated. I spend so much time filling out all these papers instead of working on the startup project. And then I’m thinking, OK — they gave us €140,000 or €140,000, which in the end is ridiculous. If you pay four people — you pay four people €140,000 over a year. And then now they’re making it more complicated because the money — now you have to put it in your tax declaration. So it’s even less if you get EXIST in a very... Well, we got it from June to June. So that was perfect because I made so little money that it didn’t go into my tax declaration. But if you get it from January to December, then you get this very little money and you have to pay taxes on it. What? Yeah, that made it super, super frustrating, super difficult, and I don’t understand why things have to be so difficult. In the end, it’s €140,000. They talk about millions and billions going into XYZ. But like, if you really want startups to do stuff, don’t make their life so difficult. They have to learn so many things. Why do I also have to fight for five euros? Sorry, I’m very angry.",
+        "answer_summary": "Argues for direct engagement with policymakers but notes enduring regulatory and bureaucratic barriers; criticizes the complexity and costs of operating a startup under existing schemes; calls for simpler processes.",
+        "keywords": [
+          "policy engagement",
+          "regulatory burden",
+          "UK/EU",
+          "company forms",
+          "EXIST funding",
+          "bureaucracy"
+        ],
+        "concept_label": "Advocacy vs regulatory burden",
+        "concept_reasoning": "The speaker advocates policy dialogue but cites heavy regulatory constraints and costs hindering startups from engaging effectively."
+      },
+      {
+        "question": "So, if you could propose a specific policy change to benefit startups in Germany, what would it be?",
+        "question_summary": "Asks Claudia what policy change would help startups in Germany.",
+        "answer": "Yeah. OK. What I thought was super complicated was founding a company. Why do I need a notary? Why do I need €1,500 to sign a stupid slip of paper for a company that — I mean — 90% of startups fail? Why does it have to be so complicated? That led us to not found the company, which probably slowed us down in other areas. Why can’t I click a few buttons and have, I don't know, maybe a preliminary company that needs to go to the notary once they pass certain thresholds? I mean, I’m not an expert. I’m just talking about what’s really frustrating. I thought it was super, super difficult to get any money. I’m not going to go to the bank and ask for a loan of half a million euros — even though they say, Oh yeah, we are the startup-friendly bank. Sure, you can borrow half a million — but I have to pay it back with interest. Where am I going to get that money from? Getting money... I mean, the grants are great — I love the grants — but it's very little money. We had the Berlin startup grant, so I had to move to Berlin. I was living in Munich before. I don’t think any other city gives this kind of money. That’s what started this journey, so that was great. I would have given up on the startup idea after half a year had Berlin not had this money — but that meant I had to move to Berlin. They were paying me very little money. I had to pay insurance — which is super expensive because you’re basically voluntarily insured, so I paid so much insurance. After that, we got Exist [startup grant], but we also paid a lot of insurance. We got a bit more money every month, but by then I was already living like a monk. And then you’re supposed to make investments — but they give you €30,000. What am I going to invest in? We have a digital business, so that was easy. We just didn’t do much. We used the cheapest version of everything possible. That also helped us build a very lean product. I’m a techie person, so I just organized everything to be super cheap. But yeah, money was a big issue. There are so many rules and regulations that make it super difficult. Once you understand how difficult it all is, you're already so far advanced that you're like, OK, I’m not going to give up now. But I think if I hadn’t spent that much time understanding all these complicated things — and knowing that if you do this wrong, you could go to jail — that scared me. I'm like, what am I doing? I'm a software developer. I could make, I don’t know, €150,000 had I not tried to build a startup. Basically, if you start a startup, you lose. I feel like you don’t win — because in the end, when you apply for jobs, nobody cares. They also don’t understand what you’ve been doing. I think access to money needs to be less complicated. I also don’t understand why Exist has to be tied to a university degree. Why do I need a university degree to be able to build a startup? That’s stupid. I didn’t learn anything about building a company in my informatics degree. I think that's super unfair. There are clever people who are probably better at business who haven’t gone to university. And that’s the only funding you can actually access. And then — that’s also stupid — you can only apply if you haven’t been out of university for longer than five years. Why? Why? Why? So you need super junior people willing to work for very little money. They come out of university and they're like, What? That’s all I can make? €30,000 a year? And have to pay taxes. If they want companies to grow — because I think people who can build companies are not 20, they're probably 39 or 45. They have experience. They know how to write a business plan. They understand business. They know the right people and they would get a lot farther than someone like me or some of my colleagues who just finished their university degree and have no idea about anything. And just like, Okay, I can work for €30,000 for a year, but then I want more. And if I don't build this company on €30,000 that I can spend, then that's it. Or I find more state investment where I have to fill out some forms and wait for half a year. But until they give me €50,000, where am I going to get the €50,000 from? I don't have them. That's why I need more funding. And yeah, and then it's also difficult in this space to find investors. It's like I don't know. Oh yeah, I remember. There's",
+        "answer_summary": "Claudia argues that Germany's startup process is overly bureaucratic and costly, with notary requirements and high setup fees. She critiques funding barriers (banks, grants, university-degree requirements, age-related eligibility) and describes how grants (Berlin startup grant, Exist) influence location and finances, while emphasizing the need for simpler formation and more accessible, less restrictive funding.",
+        "keywords": [
+          "bureaucracy",
+          "startup funding",
+          "notary",
+          "€1500",
+          "Berlin startup grant",
+          "Exist grant",
+          "insurance costs",
+          "university degree requirement",
+          "eligibility",
+          "investors",
+          "policy reform"
+        ],
+        "concept_label": "Policy/regulatory barriers and funding constraints for startups",
+        "concept_reasoning": "The item's core focus is on how regulatory hurdles and funding structures constrain startup formation and scale, including calls for simpler company formation processes and less restrictive funding rules."
+      },
+      {
+        "question": "What barriers do you see in implementing such changes?",
+        "question_summary": "Claudia discusses obstacles and bureaucratic hurdles in funding changes.",
+        "answer": "Yeah, well, I always have the impression that a lot of the money is spent on stupid things. Like, I feel like, yes, I understand there's a lot of important topics to spend money on. But I also feel like they want to have so many rules and regulations. I feel like there should be fewer regulations. I mean, it's not that much money — €140,000. I don’t understand. That's not a lot of startup funding. How can you build anything on €140,000 over a year? It's impossible. And yeah, I think they want too much — too many sheets of paper, too many things. You don’t have time to work on your startup. I’m not answering your question, sorry. I’m very bad at listening and using my brain today. Yeah, it would probably be a lot easier because, in my head, €140,000 per startup — okay. I understand that you have to apply, and I also understand that there should be a few hurdles so that not everybody just fills out three pieces of paper and gets €140,000. I get that. That makes sense. Put in hurdles, yes, if you really want this. But then you will get it. Although, I don't think that's true. You have to use the right words and put in the right sentences. Yeah, so yeah, I think fewer hurdles, more money if you want actual... Like, if you want good talent working on this, you also have to give them a chance to survive.",
+        "answer_summary": "Claudia critiques bureaucratic funding processes, calling for fewer regulations and less paperwork, questions the €140,000 cap, and suggests reducing hurdles while ensuring some checks to avoid misallocation and to attract talent.",
+        "keywords": [
+          "bureaucracy",
+          "regulations",
+          "regulatory burden",
+          "paperwork",
+          "startup funding",
+          "€140,000",
+          "hurdles",
+          "investor hesitancy"
+        ],
+        "concept_label": "Bureaucracy and funding design constraints",
+        "concept_reasoning": "The answer centers on bureaucratic complexity, overly strict regulations, and how funding design (hurdles vs. money) affects startup viability."
+      },
+      {
+        "question": "And then do you have any final thoughts on how politics and entrepreneurship intersect? Is there anything that we haven't covered that you think is important to include?",
+        "question_summary": "Claudia shares final reflections on regional disparities and creative policy ideas to support startups.",
+        "answer": "Yeah, I think what I’m always thinking about is there are so many cities — for example, my family’s from Hagen — and Hagen has 10% of the flats sitting empty. Why does everybody who wants to found a startup have to go to Berlin? Berlin is already full. If, for example, you offered people: Okay, you can live for free or your office rent is free for the first five years if you move your company here — if you have your people living in, for example, Hagen, and they only pay €5 rent — that would have motivated me. I would have moved to Hagen because it’s super well connected. And if I can spend very little on my cost of living and have time to build my startup, that’s great. Whereas here in Berlin, everything is super expensive, and I have to worry about what I can afford. I think that would be another idea — aren't there more creative ways of supporting startups? Because in the end, what do I need money for? Health insurance, cost of living. If they told me Okay, we’ll pay your health insurance, and you move to that city, and your rent is €10 a month — I’m going. And I don’t need that much money. And that would also help this area because, in the end, what does Berlin want? Why do they give us the startup grant? Because they want us to create jobs. But these areas also need jobs — and they have all the living space.",
+        "answer_summary": "Claudia argues for place-based incentives to move startups to less saturated cities, such as Hagen, with free/historically low rent and health insurance coverage, highlighting cost of living as a major constraint and advocating for more creative, location-based support beyond cash grants.",
+        "keywords": [
+          "place-based policy",
+          "regional incentives",
+          "housing subsidies",
+          "cost of living",
+          "health insurance",
+          "Berlin startup grant",
+          "Hagen",
+          "geographic distribution"
+        ],
+        "concept_label": "Spatial distribution of entrepreneurship; place-based incentives",
+        "concept_reasoning": "Her proposal centers on redistributing startup activity through geographic incentives, reducing living costs, and using location as a policy lever to spread economic activity."
+      }
+    ]
+  },
+  {
+    "interviewer": "Brandon Ching",
+    "interviewee": "Markus Poschenrieder",
+    "items": [
+      {
+        "question": "Can you please briefly describe your background and what led you to start your company?",
+        "question_summary": "Ask about founder's background and origin of the company.",
+        "answer": "Right, I'm Markus. I'm originally a lawyer, graduated in law, and have an MBA. I worked in international law firms before on the legal side of business development. Two years ago, actually, we founded Leistungs Lotse for quickly and comprehensively applying for social benefits in Germany.",
+        "answer_summary": "Founder's legal background (law, MBA); prior work in international law firms; founded Leistungs Lotse to streamline social benefits applications in Germany.",
+        "keywords": [
+          "background",
+          "lawyer",
+          "MBA",
+          "international law firms",
+          "business development",
+          "Leistungs Lotse",
+          "social benefits",
+          "Germany",
+          "founding"
+        ],
+        "concept_label": "Founding background and motivations",
+        "concept_reasoning": "Q1/A1 establish founder's professional background and motivation for starting the company; supports a theme about founder's legitimacy and domain impetus."
+      },
+      {
+        "question": "And how did your previous experiences shape your approach to entrepreneurship?",
+        "question_summary": "How experiences shaped entrepreneurial approach.",
+        "answer": "Probably it's a very forensic approach that I have, simply because the profession brings it with it. I think that we have, I would say, a strong compliance focus, and we very much shape our company according to the regulations in this field. But we also try to bring in some new innovations on the other side, and that is what my CTO tries to bring in as much as possible within the strong legal framework that we have in Germany.",
+        "answer_summary": "Forensic approach with strong compliance focus; adhere to regulations; also incorporate innovation; CTO contributes on innovation within the legal framework.",
+        "keywords": [
+          "forensic",
+          "compliance",
+          "regulations",
+          "innovation",
+          "CTO",
+          "Germany",
+          "legal framework",
+          "entrepreneurship"
+        ],
+        "concept_label": "Regulatory compliance and innovation orientation",
+        "concept_reasoning": "A2 discusses influence of professional training on management style emphasizing compliance and innovation."
+      },
+      {
+        "question": "Yeah, and what’s the core mission of your startup?",
+        "question_summary": "Ask for the core mission of the startup.",
+        "answer": "To make social benefits more accessible.",
+        "answer_summary": "Mission is to make social benefits more accessible.",
+        "keywords": [
+          "mission",
+          "social benefits",
+          "accessibility"
+        ],
+        "concept_label": "Mission and value proposition",
+        "concept_reasoning": "This is the central value proposition of the startup."
+      },
+      {
+        "question": "OK. And has your mission evolved due to any external influences, including political factors?",
+        "question_summary": "Has mission evolved due to external/political factors?",
+        "answer": "Not really. The mission stays the same, just how we approach it, I would say.",
+        "answer_summary": "Mission stable; approach changed.",
+        "keywords": [
+          "mission",
+          "external influences",
+          "political factors",
+          "approach"
+        ],
+        "concept_label": "Adaptation of approach vs mission",
+        "concept_reasoning": "Shows distinction between mission constancy and adaptability in approach under external factors."
+      },
+      {
+        "question": "OK. And how did the political climate surrounding the German general elections in 2025 influence your business decisions?",
+        "question_summary": "Politics influence around 2025 elections affected strategy.",
+        "answer": "It changed strongly because there was a large political focus on social benefits, particularly on the citizens’ allowance in Germany, the so-called “Bürgergeld.” We saw that there was change coming in the sector of social benefits. It's primarily also the authorities and the communes who already need help in this sector, and they will need more help because these changes are creating more bureaucratic barriers and efforts for the communes. This is why we are now focusing more on communes than directly on customers.",
+        "answer_summary": "Policy focus on Bürgergeld; increased bureaucratic needs; shift toward working with communes rather than directly with customers.",
+        "keywords": [
+          "Bürgergeld",
+          "political climate",
+          "elections",
+          "social benefits",
+          "communes",
+          "bureaucracy",
+          "business decisions"
+        ],
+        "concept_label": "Policy environment shaping strategy and client segments",
+        "concept_reasoning": "Illustrates how policy shifts redirect target segments and channel relationships."
+      },
+      {
+        "question": "Yeah. And what role did uncertainty around political developments play in your decision-making?",
+        "question_summary": "Role of political uncertainty in decision-making.",
+        "answer": "It played a huge role because we’re following the negotiations around the coalition in Germany very strongly, but there are a lot of uncertain terms in those negotiations. We don’t really know in which direction they’re going, or we know that there are parts that we already know won’t be implemented in reality. That’s why we’re trying to deal with this leeway that is opening there as well as possible.",
+        "answer_summary": "Uncertainty drives flexibility; some items unlikely to be implemented; plan for leeway.",
+        "keywords": [
+          "uncertainty",
+          "coalition negotiations",
+          "policy direction",
+          "leeway",
+          "decision-making"
+        ],
+        "concept_label": "Strategic flexibility under political uncertainty",
+        "concept_reasoning": "Shows how uncertainty informs adaptive strategy and planning."
+      },
+      {
+        "question": "And did you implement any risk mitigation strategies to prepare for any policy shifts?",
+        "question_summary": "Risk mitigation strategies in response to policy shifts.",
+        "answer": "Yeah, we simply go the way of least resistance for now, focusing on those authorities where we know the struggle will stay the same. For instance, in the parts of living allowance and social aid, not much is changing, or at least the foreseeable changes are things we can implement very well and quickly.",
+        "answer_summary": "Target stable policy areas; minimize changes; prioritize quickly implementable areas like living allowance and social aid.",
+        "keywords": [
+          "risk mitigation",
+          "least resistance",
+          "stable areas",
+          "living allowance",
+          "social aid",
+          "implementation speed"
+        ],
+        "concept_label": "Operational risk mitigation and market focus",
+        "concept_reasoning": "Demonstrates a pragmatic approach to minimize risk amid policy uncertainty."
+      },
+      {
+        "question": "And what sources of information do you rely on when making these decisions?",
+        "question_summary": "Information sources used for decision-making.",
+        "answer": "On the one side, we rely on lobby groups. We're part of the Startup Association (Bitkom), and we get briefed regularly about ongoing negotiations. We're also trying to participate actively in that as best as we can. On the other side, we rely on legal commentaries where we get updates on the legal situation. So what are the courts deciding on one side and what is the government doing on the other side.",
+        "answer_summary": "Rely on lobby groups (Bitkom/Startup Association) and legal commentaries; monitor courts and government actions.",
+        "keywords": [
+          "lobby groups",
+          "Bitkom",
+          "Startup Association",
+          "legal commentaries",
+          "courts",
+          "government",
+          "information sources"
+        ],
+        "concept_label": "Information ecosystem and evidence sources",
+        "concept_reasoning": "Shows the external signals and legal-political intelligence used for decisions."
+      },
+      {
+        "question": "And have you actively engaged with policymakers or advocacy groups regarding startup policies?",
+        "question_summary": "Engagement with policymakers/advocacy groups.",
+        "answer": "With policymakers, we are on the way actually. We have a call with someone from Bitkom next week, I think, around the topic of digitalization of authorities and administrative tasks. We’re also participating in an event focused on coalition negotiations in May.",
+        "answer_summary": "Active engagement: discussions with Bitkom; participation in policy events.",
+        "keywords": [
+          "policymakers",
+          "advocacy groups",
+          "Bitkom",
+          "coalition negotiations",
+          "engagement"
+        ],
+        "concept_label": "Policy engagement and advocacy activities",
+        "concept_reasoning": "Demonstrates concrete policy engagement activities and attempts to influence policy."
+      },
+      {
+        "question": "OK. And have you faced any challenges when engaging, or have you encountered any opportunities?",
+        "question_summary": "Challenges and opportunities in policy engagement.",
+        "answer": "At the beginning, it was challenging for a startup because startups generally don’t have a big voice. People simply don’t know you. But now, we’ve been around for a while and we’ve been very active, so people recognize us. We more and more see that they say ah, we heard of you before. So yeah, why don't you join this community? Why don't you join this group? Why are you not coming in in this policymaker group or have a little presentation here and there? So we are shaping our name and as we are doing that, we are growing more influent... influential as big word, but we grow more influential in that sense.",
+        "answer_summary": "Early visibility challenges; growing recognition; opportunities to join policy groups; building influence.",
+        "keywords": [
+          "challenges",
+          "visibility",
+          "recognition",
+          "networking",
+          "influence",
+          "policy groups"
+        ],
+        "concept_label": "Stakeholder engagement and legitimacy growth",
+        "concept_reasoning": "Describes progression from obscurity to recognized influence in policy circles."
+      },
+      {
+        "question": "How do you perceive the role of entrepreneurs in shaping political discourse and influencing policy?",
+        "question_summary": "Entrepreneurs' role in political discourse and policy influence.",
+        "answer": "It’s very important to have a lobby. For instance, the Startup Association has a very strong lobby in Germany and is actively involved in policymaking. However, for our sector, particularly in the GovTech space, there’s not a big lobby. We rely on others like Bitkom, but the startups in this sector communicate a lot with each other. We all know each other and we always say we need some political influence because we’re trying to shape the administrative services and solutions of tomorrow. But on the other side, we don’t have that influence yet. So that is missing a bit at the moment.",
+        "answer_summary": "Lobbying is important; GovTech lacks a strong lobby; relies on Bitkom; need more policy influence.",
+        "keywords": [
+          "lobby",
+          "policy influence",
+          "GovTech",
+          "Startup Association",
+          "Bitkom",
+          "advocacy"
+        ],
+        "concept_label": "Political entrepreneurship and lobbying landscape",
+        "concept_reasoning": "Addresses the structural aspects of lobbying and the gap in GovTech sector."
+      },
+      {
+        "question": "And do you believe startups should actively engage in politics or remain neutral?",
+        "question_summary": "Should startups engage in politics or stay neutral?",
+        "answer": "No, I think we should actively engage in politics. We are working together with stakeholders all the time. We work with communes, see their problems, we see what’s possible, and try new things out. We’re always challenging boundaries and trying to see where the barriers are, and how they could be shaped differently. So for instance, I think the approach we have nobody from a governmental perspective",
+        "answer_summary": "Advocates active political engagement; continuous collaboration with stakeholders; challenges boundaries; not neutral.",
+        "keywords": [
+          "engagement in politics",
+          "stakeholders",
+          "communes",
+          "government perspective",
+          "political engagement"
+        ],
+        "concept_label": "Policy engagement stance",
+        "concept_reasoning": "Expresses clear stance in favor of proactive political engagement and governance involvement."
+      },
+      {
+        "question": "Looking back, do you believe the elections had a lasting impact on your business strategy?",
+        "question_summary": "Assesses whether elections shaped the interviewee's business strategy.",
+        "answer": "Definitely. The elected party, the Christian Democrats, had a very strong stance on social benefits, which they’re trying to implement and which are already agreed upon in the coalition papers. This will have an effect on us, and we calculated with that, so we’ve already mitigated the risks for that anyway simply by not approaching these types of social benefits.",
+        "answer_summary": "Elections influenced policy expectations; the interviewee anticipated changes and mitigated risk by avoiding certain social-benefit interventions.",
+        "keywords": [
+          "elections",
+          "policy impact",
+          "political risk",
+          "social benefits",
+          "coalition papers",
+          "risk mitigation"
+        ],
+        "concept_label": "Political risk shaping strategy",
+        "concept_reasoning": "Shows how political outcomes drive strategic decisions; interviewee cites party stance and preemptive risk mitigation."
+      },
+      {
+        "question": "And what are the most significant lessons that you learned from navigating this political landscape?",
+        "question_summary": "What lessons emerged about engaging with politics to advocate for policy?",
+        "answer": "Try to get a voice as soon as possible when you really have something you need to advocate for and try to find a lobby. If there’s no lobby, try to create one. You always need to work together with others to get your voice heard, because at the beginning, nobody will listen.",
+        "answer_summary": "Advocate early, build or create a lobby, and collaborate to be heard.",
+        "keywords": [
+          "advocacy",
+          "lobby",
+          "coalition",
+          "policy engagement",
+          "stakeholders"
+        ],
+        "concept_label": "Voice-building and lobbying",
+        "concept_reasoning": "Emphasizes early advocacy and coalition-building as key strategy in policy influence."
+      },
+      {
+        "question": "So if you could propose a policy change to benefit startups in Germany, what would it be?",
+        "question_summary": "What policy change would support startups in Germany?",
+        "answer": "More unification. The existing legislation creates a lot of silos across Germany. More unification for instance, when it comes to definition of income, when it comes to definition of, is it a household? Is it a demand group which how they call it in in citizens alliance for instance? It's very yeah, a lot of silos, a lot of different terms. Although they pretty much mean the same. So unification would be key for digitalization and also for making it easier for people to understand.",
+        "answer_summary": "Calls for unified definitions and less policy silos to improve digitalization and clarity.",
+        "keywords": [
+          "unification",
+          "silos",
+          "definition of income",
+          "household",
+          "citizens alliance",
+          "policy coherence",
+          "digitalization"
+        ],
+        "concept_label": "Policy unification for digitalization",
+        "concept_reasoning": "Identifies need to reduce fragmentation across legislation to support digitalization."
+      },
+      {
+        "question": "And what barriers do you see in implementing these changes?",
+        "question_summary": "What barriers exist to implementing policy changes?",
+        "answer": "These are legislative changes, so in the end, they must be done by the legislators and regulators. It’s not easy because the structures that exist grew historically and have been around for many years. The whole system has developed around it, and so it means a large change for the administration. But if they really want to transform the administration in terms of digitalization, these changes are absolutely necessary and inevitable.",
+        "answer_summary": "Barriers are structural and historical; change requires legislative action and admin overhaul.",
+        "keywords": [
+          "legislation",
+          "legislators",
+          "regulators",
+          "institutional inertia",
+          "administration",
+          "digital transformation"
+        ],
+        "concept_label": "Institutional inertia and legacy systems as barrier to reform",
+        "concept_reasoning": "Highlights how entrenched structures impede reform and required action from policymakers."
+      },
+      {
+        "question": "Do you think these changes are blocked just because the system has been built up this way over many years, or are there any other personal benefits for politicians or others that might be standing in the way?",
+        "question_summary": "Are there incentives or cultural norms blocking reforms beyond legacy systems?",
+        "answer": "Actually, no one’s benefiting from this at the moment. It's really like basically, it grew over such a long time and there is a bit of a personal note in many political parties that they simply say we don't want to make it too easy for people to apply for social benefits. Some politicians have this opinion But on the other hand, it’s a very typical German mindset, “it has been this way for the last 30 years”.",
+        "answer_summary": "No direct benefits, but inertia and a cultural norm of preserving the status quo hinder reforms.",
+        "keywords": [
+          "inertia",
+          "personal benefit",
+          "norms",
+          "German mindset",
+          "status quo"
+        ],
+        "concept_label": "Status quo bias and inertia",
+        "concept_reasoning": "Addresses why reforms face resistance: perceived norms and long-standing practices, not active benefits."
+      },
+      {
+        "question": "Do you have any final thoughts on how politics and entrepreneurship intersect?",
+        "question_summary": "Concluding reflections on politics and entrepreneurship.",
+        "answer": "One thing maybe. Particularly when new regulations are coming out. For instance, they are an opportunity for working in regulatory sandboxes and so on. So, to create a bit of an environment where people can test out new solutions, we're seeing this with AI now, for instance, that we have the new AI coming into force and giving us a lot of regulations, particularly companies working in the sector of AI see this risk assessments that the AI brings with it. How do I perfectly or how do I correctly assess the risk of my AI for stuff like this? More regulatory sandboxes and more opportunities where I can simply try myself out as a start up or also as a mid sized company. If you ask me. That would be extremely helpful because there's a large uncertainty in the sector at the moment, for instance. This is just one example of it. So more regulatory sandboxes, more opportunities to try out new things before regulation comes into force.",
+        "answer_summary": "Advocates for regulatory experimentation and sandboxing, especially around AI regulation to reduce uncertainty.",
+        "keywords": [
+          "regulatory sandboxes",
+          "AI regulation",
+          "risk assessment",
+          "uncertainty",
+          "policy experimentation"
+        ],
+        "concept_label": "Regulatory sandboxes and innovation risk management",
+        "concept_reasoning": "Links to need for testing new tech-laden solutions before regulation to manage uncertainty."
+      }
+    ]
+  },
+  {
+    "interviewer": "Brandon Ching",
+    "interviewee": "Max Salamon",
+    "items": [
+      {
+        "question": "OK. First question, can you briefly describe your background and what led you to start your company?",
+        "question_summary": "Describe background and motivation to start The Colony.",
+        "answer": "I am a designer in graphic and web design. I studied a long time ago and worked in agencies and marketing for about 25 years. There were personal things happening and I could not deal with the consumption and marketing any longer. I decided to do something better with the rest of my life and not sell people things they do not need or want. The idea for a startup existed for many years. I moved very often because of my freelance work, about 12 times in 20 years, so I know a lot about the housing shortage in Germany. I began to think there must be another way to bring people into a home, not just an apartment, but into a living situation they really live in and like. Nobody needs 100 square meters for themselves, and not everyone is good at living in communities with 20 people. I looked for other solutions to create a modern urban lifestyle that is healthy, sustainable, social in communities, primarily in cities. That was the main idea. It took time to get to a concrete concept or startup idea. In 2019 I attended the first startup event in Innsbruck and presented The Colony as an idea that could be a startup. It was not founded then, but the idea was an urban village with small private spaces and large shared areas. All these ideas of a village where everyone helps each other and shares stuff and ideas that brings people together. Many people liked it from the customer side, not from the financial side. I decided this could be what I want to do for the rest of my life. I founded the company in 2020 during the first lockdown, so really bad timing, but nobody knew that beforehand. This is the story of The Colony. I also work on my lifestyle to live as sustainably as possible. I have been improving myself for the last 12 or 13 years. When you live in the city and you do not own an apartment, a landlord can be difficult. Then you cannot put photovoltaic on the roof or save water. You can get green energy, but that does not save the world alone. There are more fields to work on and you cannot work on every field if you only rent an apartment in the city and want to live a normal life. So many things have to be done on a higher level and I am working on that to give people a chance to live sustainably, socially, and in a smart lifestyle.",
+        "answer_summary": "Designer by background, motivated by housing shortage and a desire for sustainable, community-focused urban living; developed the urban village concept and founded The Colony in 2020 during the lockdown.",
+        "keywords": [
+          "designer",
+          "housing shortage Germany",
+          "urban village",
+          "The Colony",
+          "sustainability",
+          "community living",
+          "urban lifestyle",
+          "founded 2020",
+          "lockdown"
+        ],
+        "concept_label": "Founding motivation and problem framing (sustainable urban village).",
+        "concept_reasoning": "The response links the founder's design background, values, and the housing shortage to the creation of an urban village concept aimed at sustainable, community living."
+      },
+      {
+        "question": "OK, cool. And how did the political climate surrounding the German general elections in 2025 influence any of your business decisions?",
+        "question_summary": "Impact of 2025 German elections on business decisions.",
+        "answer": "I cannot say it clearly because in real estate and construction in Germany things take a long time. In marketing things could be done yesterday, now it takes four years which feels eternal. COVID initially slowed things, then the war started and many project developers and construction companies went bankrupt, so there was no income for me. For the last three to four years the only thing I earned was consultancy to convince conventional project developers to build in a more ecological and social way and align with my ideas of a modern urban lifestyle. In the past two years no external funders paid freelancers. We have a 500 billion infrastructure package from the future government, but I fear the money will not be used for the right things. Climate change and saving our environment did not feature in coalition negotiations at first until the Green Party demanded strong commitment. I have heard discussions about nuclear energy and some politicians do not care about our environment. I fear it is getting worse for sustainable projects that are not tech oriented. If it is tech it is cool, but for projects about people, environment, socializing and community building, politics are not interested.",
+        "answer_summary": "External political and macro factors slowed progress and funding; ecological consultancy provided some income; concerns about the allocation of a large infrastructure package and political priorities; non-tech, people-centered sustainability projects face political risk.",
+        "keywords": [
+          "German elections 2025",
+          "real estate sector",
+          "construction timelines",
+          "COVID",
+          "war",
+          "infrastructure package",
+          "Green Party",
+          "environment",
+          "sustainability funding",
+          "policy risk",
+          "consultancy income"
+        ],
+        "concept_label": "External environment and policy risk shaping strategy.",
+        "concept_reasoning": "The answer centers on how politics, macro events, and funding affect project viability, timelines, and focus on sustainability."
+      },
+      {
+        "question": "have you had to pivot or adjust your business model due to any anticipated or actual political shift?",
+        "question_summary": "Asks whether political shifts forced a pivot in business model",
+        "answer": "Not due to political shifts — more, I’m still not invested, so no venture capital or business angel was helping us. The first two or three years, I was focusing on the community part, bringing people together and operating these communities. We can do that in shopping malls, in old office buildings, in crazy buildings like a bunker. 9:36 It’s not where it is, but how you do it. This is service — a little bit of software, but it’s mainly service. And nobody’s interested in service. Especially German capital loves hardware things they can touch or software as a service. 9:56 If you can scale very fast, then it’s interesting. Or things they can measure, like typical engineer things — there’s a heat pump that’s 3% more efficient than the other. Then — oh, wow, this is pretty cool and rules the world. So this is crazy, and then you get all the money. 10:25 Now, I’m focusing more on product development — that’s what I started with. I switched to service, and now I’m getting back to the beginning. The idea is to bring that tiny house idea into the city. It’s more like a very high-quality, circular-built container thing, but not so small. People in the city don’t accept anything under 15 square meters — that’s too small. 11:01 But anything over 30 square meters, highly functional, built with wood and natural materials, is smart, efficient, and cleverly designed. I think there’s a market — not for a family with three children and two dogs, of course, but for anyone who’s living alone or with a partner because nearly 50% of every citizen lives alone. 11:37 So, it’s a huge market. We can set it up very fast. It’s easier, and the approval process is easier. It can be used temporarily as well. You can address other places for the container buildings, but no one wants to live there. 12:04 We’re making it so you want to live there because it’s really cool and sustainable. We understand the logic of the container buildings, and you can place them on parking decks, in industrial areas, between buildings, and use them for three, four, or five years, and then move them to another place in the city. 12:30 The target group is — government, city, or B2B, like companies for campus situations, employee housing, students, expats, and apprentices. So that’s the main idea. I’m focusing on building that prototype for the Modular House. I hope things will improve with that.",
+        "answer_summary": "Max explains that politics haven’t driven a pivot; lack of VC led to a community/service focus, with a return to product ideas like modular/container housing and a focus on humane, scalable city living.",
+        "keywords": [
+          "political shifts",
+          "funding environment",
+          "venture capital",
+          "service vs product",
+          "community building",
+          "modular house",
+          "container housing",
+          "sustainability",
+          "Germany"
+        ],
+        "concept_label": "Funding environment shapes business model and pivot away from VC-driven scaling",
+        "concept_reasoning": "Max emphasizes no VC involvement and a pivot driven by funding dynamics and a shift between service and product, not by political shifts."
+      },
+      {
+        "question": "So, are there any major strategic decisions you’ve made directly because of the German elections in 2025?",
+        "question_summary": "asks about strategic decisions tied to 2025 German elections",
+        "answer": "Not yet. It’s too early. I fear there will be changes in public funding regarding real estate and construction, particularly building efficiency. I fear they’ll deregulate a lot of good things to make it easier and cheaper to build buildings. 14:04 It has to be done so buildings can be built cheaper, but it’s also about fire safety. We have the strongest building regulations in the world here in Germany. Because of the federal system, each state has its own regulations, and nearly every city has its own regulations, so this won’t make it easier. A nationwide standard building law would be very helpful, but I’m not sure if they’ll do it. 14:54 I think they’ll just help the old-school builders to keep making the same stuff they’ve been making since the '80s. It’s not clear at the moment. Everyone involved in real estate and construction, especially those with money, has been standing by since COVID, standing by since the war, and still standing by because they don’t know what the new government will do. 15:28 If they make decisions and the rules are clear, then maybe something could start, but it depends on the ideas they have and the kind of deregulation they plan to do.",
+        "answer_summary": "Max anticipates changes in public funding and potential deregulation; highlights Germany’s regulatory complexity and desire for a nationwide standard, but uncertainty remains.",
+        "keywords": [
+          "German elections 2025",
+          "public funding",
+          "real estate",
+          "construction",
+          "deregulation",
+          "building regulations",
+          "Germany",
+          "policy uncertainty"
+        ],
+        "concept_label": "Policy uncertainty and regulatory/funding environment affecting real estate and construction",
+        "concept_reasoning": "Response centers on potential policy shifts, funding changes, and regulatory fragmentation impacting decisions."
+      },
+      {
+        "question": "Does the uncertainty around political developments play a role in your current decision-making?",
+        "question_summary": "Asks how political uncertainty affects decisions",
+        "answer": "Absolutely. Everything is on standby. No one wants to make decisions. For example, I won a building competition from the city of Düsseldorf. We had permission to build a really cool, sustainable building for artists, with affordable housing and a lot of cool functions, completely out of wood. It was supposed to be built circularly, with the highest ecological standards. 16:49 Even though we built a strong concept with these high standards, we could only offer a good yield, about 5-6%, which is great. Four or five years ago in Düsseldorf, everyone would have bought that, regardless of whether it’s ecological or not. 17:25 But I’ve been waiting over three years to find an investor for that project. An investor in Düsseldorf. They could rent it, and it wouldn’t lose money, but still, they’re just waiting. Everyone is waiting, thinking a better deal is around the corner. So, everything is on standby.",
+        "answer_summary": "Policy uncertainty causes strategic inertia; projects exist but investors are waiting for clearer signals and better terms, causing delays.",
+        "keywords": [
+          "decision-making under uncertainty",
+          "standby",
+          "investor demand",
+          "Düsseldorf project",
+          "yield 5-6%",
+          "wait for better deal"
+        ],
+        "concept_label": "Strategic inertia due to political uncertainty and investor behavior",
+        "concept_reasoning": "Max describes waiting for clearer signals and better deals, showing paralysis in decision-making caused by political risk and investor sentiment."
+      },
+      {
+        "question": "Have you implemented any risk mitigation strategies to prepare for uncertain policy shifts?",
+        "question_summary": "Asks about risk mitigation in light of policy uncertainty",
+        "answer": "No, not really. If I were running a company with 200-300 people and permanent cash flow, I could invest and act with a forward-looking strategy. But for the past five years, I’ve just been reacting to others. 18:45 I’m dependent on the government, local politics, investors, and authorities for approval. I just accept the situation. When I switched communications from communities and service to hardware, that’s all I could do.",
+        "answer_summary": "No formal risk-mitigation strategies; scale and dependence on public sector prevent proactive planning; respond/reactive posture dominates.",
+        "keywords": [
+          "risk mitigation",
+          "policy dependence",
+          "reactive strategy",
+          "scale constraints",
+          "public sector dependence"
+        ],
+        "concept_label": "Limited risk mitigation due to dependency on policy environment; reactive posture",
+        "concept_reasoning": "Max explains lack of forward risk planning due to scale and reliance on government approvals; adaptation has been reactive."
+      },
+      {
+        "question": "Have you actively engaged with policymakers or advocacy groups regarding startup-related policies?",
+        "question_summary": "Asks about engagement with policymakers/advocacy groups",
+        "answer": "Yes, sometimes. When I started, I was invited by some local politicians, but not so much anymore. Felix Parachuc from the Green Party, who’s now in Berlin, was involved in the initial discussions. We had a cool interview here at my co-working space. I had discussions with people from the",
+        "answer_summary": "Max indicates limited ongoing policy engagement, noting early discussions with Green Party and local politicians; continued but reduced engagement.",
+        "keywords": [
+          "policy engagement",
+          "advocacy",
+          "local politicians",
+          "Green Party",
+          "Felix Parachuc",
+          "startup policy"
+        ],
+        "concept_label": "Engagement with policymakers and advocacy groups",
+        "concept_reasoning": "Max references initial engagement with politicians and ongoing but limited interaction, highlighting policy channels."
+      },
+      {
+        "question": "What should be done to deliver affordable housing, given that traditional approaches haven't worked and parties aren't building?",
+        "question_summary": "Need for new approaches to affordable housing delivery beyond traditional methods.",
+        "answer": "Everyone says we need more affordable housing, but they have no ideas on how to deliver it. No party is building, and the Bund is not building anymore. Private companies could partner with the public sector in some areas, but it’s still not enough. They have no idea because the way things have been done in the past 50 years won’t solve future problems. We have to find new ways. When talking to politicians or local authorities, it’s like the applause during COVID. Everyone claps, saying, “You’re the best,” but at the end of the month, they’ve worked more than ever and still don’t have more money in their bank account. It’s nice to get applause, but it doesn’t help. I experience this all the time. Everyone says, “What you’re doing is so cool, so great, so important,” but no one wants to give money. It’s just a pat on the back.",
+        "answer_summary": "Critiques current actors and emphasizes the need for new housing delivery models and funding beyond applause.",
+        "keywords": [
+          "affordable housing",
+          "delivery",
+          "public-private partnership",
+          "policy",
+          "funding",
+          "applause"
+        ],
+        "concept_label": "Policy innovation in housing delivery",
+        "concept_reasoning": "The speaker argues that current approaches are insufficient and calls for new delivery models and funding mechanisms beyond applause."
+      },
+      {
+        "question": "How do you perceive the role of entrepreneurs in shaping political discourse? Do you believe startups should engage in politics or remain neutral?",
+        "question_summary": "Entrepreneurs' role in politics and whether startups should engage.",
+        "answer": "They should engage more. I’m thinking about joining a political party. I believe startups have to be more political. There are some startup unions and organizations, but in my opinion, they’re too neoliberal. It’s too much about money, tech, and AI. Everyone in the impact investing space talks but doesn’t act. I was part of the Bundesinitiative impact investing, but it’s been four years of talking without any action. How can we identify a good impact project and deliver its KPIs? I always thought, “Use your brain, talk to the people, and if you see this could be a cool idea with high potential, invest in it.” White papers that do nothing don’t help. There’s no real impact investing in Germany. It’s just Series A and above. If a startup isn’t a startup anymore, if it’s a company and has proven its worth, then they get venture capital. But when it comes to impact investing, they expect the same returns as typical investments, with impact added on top. There’s no compromise. they say, that the higher the potential of that impact is that that company could deliver if it's successful, then we can, maybe we can accept that there's no yield, or just one percent, or there's no exit in the next 10 years. No, the same mechanism on typical venture capital but impact on top. This won’t work.",
+        "answer_summary": "Advocates for more political engagement by startups; critiques neoliberal startup orgs; argues for real impact investing aligned with KPIs rather than purely financial returns.",
+        "keywords": [
+          "startups",
+          "politics",
+          "engagement",
+          "neoliberal",
+          "impact investing",
+          "KPIs",
+          "Germany"
+        ],
+        "concept_label": "Entrepreneurship in political discourse",
+        "concept_reasoning": "The speaker calls for active political participation by startups and critiques existing structures, linking to impact investing and governance."
+      },
+      {
+        "question": "Do you believe the elections have had a lasting impact on your business strategy?",
+        "question_summary": "Assessing whether elections will influence strategic direction.",
+        "answer": "I’m not sure yet. It’s too early. Maybe by late summer, when they start rolling out decisions and deregulation, investing, infrastructure, we’ll see what impact it has. If they’re not just talking but actually doing something, we’ll see if it affects us.",
+        "answer_summary": "Uncertain; waiting for policy actions to materialize before changing strategy.",
+        "keywords": [
+          "elections",
+          "policy",
+          "strategy",
+          "deregulation",
+          "investment"
+        ],
+        "concept_label": "Temporal impact of elections on business strategy",
+        "concept_reasoning": "The response explicitly states uncertainty and the need to observe actual policy actions before knowing impact."
+      },
+      {
+        "question": "If you could propose a policy change to benefit startups in Germany, what would it be?",
+        "question_summary": "Policy proposal to support startups in Germany.",
+        "answer": "A left-green focus. Everything we’ve tried for the past 80 years, from conservative to liberal, liberal to conservative, to a little bit social. We need more focus on people and the planet. These capitalist neoliberal approaches don’t work anymore — just for a few, but not for the 99%.",
+        "answer_summary": "Advocates a socio-ecological, left-green policy shift away from neoliberal capitalism.",
+        "keywords": [
+          "policy change",
+          "Germany",
+          "left-green",
+          "sustainability",
+          "inclusion"
+        ],
+        "concept_label": "Socio-ecological policy reform",
+        "concept_reasoning": "Explicit call for a left-green focus and critique of neoliberal approaches."
+      },
+      {
+        "question": "What do you think is the main barrier to implementing such changes?",
+        "question_summary": "Identifying the obstacles to policy and societal change.",
+        "answer": "Fear. The media is controlled by conservatives and right-wing groups, and there’s fear around migration, fear around growth. Every normal person understands there’s no permanent growth in a closed system. We need to tell new stories. Sufficiency is not bad. Degrowth isn’t bad if we tell the story right. I can speak from my own life — I live in a small apartment, I don’t need much, and I don’t have a car. I feel free like never before. If you own a lot of things, you never feel free. You always fear losing something. Once you let go of that, you gain a new freedom to choose what you want to do with your life, and what’s worth fighting for. It’s not your car, big apartment, or Rolex or going on holidays five times a year. That’s not the really important things in life. The holidays, OK, I can understand that a little bit, to see the world, but not all-inclusive shit in Mallorca. There are more important things than material possessions. But no one wants to tell that story. It’s a good story, though, and it’s important. But I fear it won’t happen in our lifetime.",
+        "answer_summary": "Highlights fear-driven public narratives as a major barrier; advocates narrative shift toward sufficiency and degrowth; personal example of non-material freedom.",
+        "keywords": [
+          "fear",
+          "media",
+          "migration",
+          "growth",
+          "storytelling",
+          "degrowth"
+        ],
+        "concept_label": "Narrative/framing as barrier to policy change",
+        "concept_reasoning": "Centers on fear and the need to tell new stories and reframe values to enable change."
+      },
+      {
+        "question": "Do you have any final thoughts on politics and entrepreneurship?",
+        "question_summary": "Final reflections on the intersection of politics and entrepreneurship.",
+        "answer": "I think it’s a very typical German thing — we are very risk-aware. But we need to get over that. We need to make riskier decisions if it’s worth it. Impact investing is crucial, but it needs to be supported. If you look at DARPA in the US, which invented things like the telephone and the internet, a lot of things we take for granted were made possible by government funding. It’s important that politics strengthen public funding for startups and universities. We have a lot of smart people, but the focus shouldn’t only be on tech and software. We need to focus on fields that improve our lives, like social entrepreneurship and impact ventures. It should start very early, from the idea stage, not just when someone has earned 100,000 euros for a prototype to prove that it is worth investing. Venture capital, risk capital means getting in at a very, very early stage, like these US legends.",
+        "answer_summary": "Advocates for greater risk-taking, stronger public funding, and broader focus beyond software toward social entrepreneurship; emphasizes early-stage support.",
+        "keywords": [
+          "risk",
+          "Germany",
+          "impact investing",
+          "public funding",
+          "DARPA",
+          "social entrepreneurship",
+          "early-stage"
+        ],
+        "concept_label": "Public funding & early-stage support for impact ventures",
+        "concept_reasoning": "Emphasizes the need for government-backed funding and early-stage investment to foster broader impact beyond tech."
+      },
+      {
+        "question": "There must be... Maybe a public-private partnership?",
+        "question_summary": "Inquiry about establishing a public-private partnership to fund early-stage ideas.",
+        "answer": "Not the high-tech founder fund or stuff like that, but they always invest at Series A and upwards, so we have to find those really good ideas in universities, science fields, and startups at an early stage. And then we have to be brave enough to invest at that early stage. This could be a really good strategy.",
+        "answer_summary": "Advocates shifting focus to identifying and investing in high-potential ideas early, particularly from universities and science sectors, potentially via public-private partnerships, rather than limiting to Series A+ funds.",
+        "keywords": [
+          "public-private partnership",
+          "early-stage investment",
+          "Germany investment culture",
+          "university ideas",
+          "Series A",
+          "high-potential ideas"
+        ],
+        "concept_label": "Early-stage investment strategy with public-private partnership",
+        "concept_reasoning": "The passage centers on initiating early-stage investments (from academia/science) and exploring public-private partnerships, contrasting with traditional late-stage funding. This defines the core strategic theme."
+      }
+    ]
+  }
+]
