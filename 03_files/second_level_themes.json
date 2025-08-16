@@ -2,115 +2,108 @@
   {
     "themes": [
       {
-        "pattern_name": "Policy, Regulation & Governance Landscape",
+        "pattern_name": "Bottom-up edtech design and learner-centered learning",
         "reasoning": [
-          "Regulatory barriers and system rigidity impede startup activity and innovation across sectors.",
-          "Regulatory experimentation and enabling environments (e.g., sandboxes) signal pathways to lawful experimentation and faster learning.",
-          "Regulatory environment shapes startup risk and strategic choices, including compliance burden and risk assessment.",
-          "Policy uncertainty, funding constraints, and macro-regulatory shifts create volatility that influences planning and investment horizons.",
-          "Intergovernmental barriers, centralization trends, and legacy institutions act as inertia against reform; status quo bias reinforces risk-averse behavior.",
-          "Policy unification for digitalization and policy coordination/centralization shape client segments and market access.",
-          "Temporal effects of elections and political cycles can pause or redirect strategy, underscoring the regulatory lens on decision-making."
+          "Clusters concepts around shifting from traditional top-down software/education to a bottom-up, elastic workflow and agile, project-based learning in education technology.",
+          "Includes emphasis on entrepreneurial education policy and open industry-school collaboration as mechanisms to enable learner-driven experiences."
         ],
-        "weight": 13,
+        "weight": 3,
         "broader_aggregate_dimensions": [
-          "Policy, Regulation & Governance Landscape"
+          "Education & Learning",
+          "Technology & Digital Learning"
         ]
       },
       {
-        "pattern_name": "Entrepreneurial Political Engagement & Advocacy",
+        "pattern_name": "Regulatory rigidity and experimentation for entrepreneurship",
         "reasoning": [
-          "Lobying, professional associations vs. direct political activism highlights different engagement modes and legitimacy considerations.",
-          "Policymaker engagement and lobbying intensity reflect bargaining power and resource constraints in advocacy efforts.",
-          "Active engagement with policymakers and advocacy networks signals an attempt to shape the policy environment.",
-          "Opportunities and challenges in political advocacy reveal the delicate balance between influence, authenticity, and regulatory burden.",
-          "Entrepreneurship and political engagement, including voice-building and lobbying, demonstrate how founders navigate public policy landscapes.",
-          "Political environment impact on entrepreneurship underscores how policy mood and party dynamics condition strategic choices.",
-          "Advocacy stance and perceived legitimacy influence stakeholder support and policy uptake.",
-          "Limited political impact or reliance on partnerships suggests strategic constraints in policy influence."
+          "Centers on a rigid, centralized regulatory regime that constrains scaling and innovation.",
+          "Includes calls for regulatory experimentation (test beds, sandboxing), critique of bureaucracy, and concerns about intergovernmental barriers and centralized coordination.",
+          "Reflects dependence on policy design, taxation, and regulatory hurdles as external risk factors for startups."
         ],
         "weight": 9,
         "broader_aggregate_dimensions": [
-          "Policy, Regulation & Governance Landscape"
+          "Policy & Regulation",
+          "Public Sector & Governance",
+          "Innovation Policy"
         ]
       },
       {
-        "pattern_name": "Financing, Investment & Financial Strategy for Social & Impact Ventures",
+        "pattern_name": "Policy climate and political risk shaping strategy",
         "reasoning": [
-          "Public funding and impact fund governance shape early-stage capital availability and constraints.",
-          "Impact investing criteria guide decision-making and due diligence, aligning financial and social returns.",
-          "Venture-capital criteria and funding access influence investor matchmaking and startup scaling paths.",
-          "Fundraising dynamics reflect tensions between impact-focused goals and traditional VC expectations.",
-          "Early-stage investment strategy with public-private partnerships indicates blended-finance approaches to de-risk impact ventures.",
-          "Public funding and early-stage support for impact ventures anchor ecosystem-building and experimentation.",
-          "IOOI-based impact measurement and customized indicators feed into governance and investment decisions.",
-          "Data collection planning and templating support consistent measurement across impact, financial, and ESG dimensions.",
-          "ESG and risk assessment in due diligence ensures multi-criteria evaluation in funding rounds.",
-          "Standardisation and best practices in impact due diligence create comparability for investors and funders.",
-          "Integration of financial, impact, ESG in internal committee decision-making aligns investments with mission."
+          "Shows how macro-political factors (elections, political discourse, societal shifts) influence risk assessment, strategic pivots, and timing for entrepreneurship.",
+          "Encompasses uncertainty, strategic pauses, and adaptability in response to political changes."
         ],
-        "weight": 11,
+        "weight": 12,
         "broader_aggregate_dimensions": [
-          "Financing & Investment for Social Ventures"
+          "Political Economy",
+          "Strategic Management"
         ]
       },
       {
-        "pattern_name": "Founding Identity, Motives & Social Purpose",
+        "pattern_name": "Policy engagement networks and advocacy strategy",
         "reasoning": [
-          "Founding rationale and bridging research-to-market articulate the problem framing and value proposition from inception.",
-          "Founding background and motivation reveal lived experience and driver narratives behind venture creation.",
-          "Motivation by lived experience emphasizes empathy-led design and mission alignment.",
-          "Background and motivation (founder-centric) shapes leadership style and strategic focus.",
-          "Founding motivation and problem framing (e.g., sustainable urban village) anchors the venture in a social-issues context.",
-          "Mission and digital platform for volunteering reflects social impact orientation and boundary-pilling collaboration.",
-          "Mission and value proposition articulate why the venture matters beyond profit.",
-          "Transition to entrepreneurship and learning curve captures the shift from idea to venture."
+          "Differentiates between indirect political influence through associations/lobbying and direct political activism, highlighting practical barriers and strategic choices.",
+          "Includes emphasis on building coalitions, engaging policymakers informally, and leveraging ecosystem actors to advance policy goals."
         ],
-        "weight": 8,
+        "weight": 12,
         "broader_aggregate_dimensions": [
-          "Founding Identity & Social Purpose"
+          "Policy & Governance",
+          "Industry/Stakeholder Collaboration"
         ]
       },
       {
-        "pattern_name": "Equity, Inclusion & Ecosystem Dynamics",
+        "pattern_name": "Founding narratives and motivation for social impact",
         "reasoning": [
-          "Equity/inclusion in entrepreneurial ecosystems highlights access, fairness, and representation issues across the startup landscape.",
-          "Ecosystem collaboration and awareness are essential to scale social enterprises and maximize social impact.",
-          "Spatial distribution of entrepreneurship and place-based incentives reflect geography as a driver of opportunity and inequality.",
-          "Cultural and systemic factors shape entrepreneurial behavior and access to resources.",
-          "Barriers from vested interests and power dynamics impede broad-based participation and reform.",
-          "Power dynamics and systemic reform barriers illuminate governance challenges to inclusive growth."
-        ],
-        "weight": 6,
-        "broader_aggregate_dimensions": [
-          "Equity & Ecosystem Dynamics"
-        ]
-      },
-      {
-        "pattern_name": "Strategic Adaptation under Political Context",
-        "reasoning": [
-          "Uncertainty and risk in decision making foreground the need to adapt strategies dynamically.",
-          "Strategic pivots under political context show how startups reframe offerings, markets, or partnerships in response to policy shifts.",
-          "Strategic risk and political shift response captures proactive vs reactive posture to regulatory changes.",
-          "Pause as strategy due to political shifts reflects conservative risk management in volatile environments.",
-          "Strategic inertia due to political uncertainty and investor behavior illustrates how policy ambivalence dampens bold moves.",
-          "Adaptation of approach vs mission signals tension between core purpose and external pressures.",
-          "Strategic flexibility under political uncertainty highlights contingency planning and scenario thinking."
+          "Brings together founder background, motivation, and transition to entrepreneurship focused on social impact and bridging research to market."
         ],
         "weight": 7,
         "broader_aggregate_dimensions": [
-          "Strategic Adaptation under Political Context"
+          "Entrepreneurship & Leadership",
+          "Social Impact"
         ]
       },
       {
-        "pattern_name": "Education Technology & Learning Innovation",
+        "pattern_name": "Impact investing governance, criteria, and due diligence framework",
         "reasoning": [
-          "Bottom-up elastic workflow and agile learning in education technology point to adaptive pedagogy and iterative product design.",
-          "Entrepreneurship education policy indicates governance and curriculum-level considerations that enable or constrain startup-oriented learning."
+          "Converges on fund governance (public funding, impact funds), investment criteria, and standardized yet flexible due diligence (IOOI, SDGs, ESG) with data collection and templates.",
+          "Includes deal sourcing, investor matchmaking, and fundraising dynamics for impact vs traditional startups."
+        ],
+        "weight": 13,
+        "broader_aggregate_dimensions": [
+          "Finance & Investment",
+          "Impact Investing"
+        ]
+      },
+      {
+        "pattern_name": "Equity, inclusion, and social ecosystems in entrepreneurship",
+        "reasoning": [
+          "Centers on supporting marginalized or underrepresented entrepreneurs, addressing cultural barriers to entrepreneurship, and aligning policy with inclusion and social impact."
+        ],
+        "weight": 7,
+        "broader_aggregate_dimensions": [
+          "Social Equity & Inclusion",
+          "Entrepreneurship & Society"
+        ]
+      },
+      {
+        "pattern_name": "Urban housing, sustainability, and place-based entrepreneurship",
+        "reasoning": [
+          "Links founding ideas around sustainable urban living to place-based policy tools (spatial incentives, housing, and infrastructure) and policy risk in real estate/urban development."
+        ],
+        "weight": 4,
+        "broader_aggregate_dimensions": [
+          "Urban Policy & Housing",
+          "Sustainability & Environment"
+        ]
+      },
+      {
+        "pattern_name": "Mission continuity with adaptable approach",
+        "reasoning": [
+          "Notes that core mission remains stable while approaches and channels adapt in response to external factors, signaling strategic flexibility without changing the overarching purpose."
         ],
         "weight": 2,
         "broader_aggregate_dimensions": [
-          "Education Technology & Learning Innovation"
+          "Strategy & Purpose"
         ]
       }
     ]

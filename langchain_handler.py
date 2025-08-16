@@ -61,8 +61,9 @@ def create_second_level_themes(concepts: str) -> MultipleSecondLevelThemes:
         - Give it a short descriptive name.
         - Provide a brief explanation (reasoning) of why the concepts belong together.
         - Count how many concept labels are in the theme (this is the "weight").
-    3. If applicable, group second-order themes into broader aggregate dimensions and name them.
-
+    3. For each second-order theme, **assign one or more broader aggregate dimensions if relevant**. 
+       - A theme can belong to multiple aggregate dimensions if the reasoning suggests overlap.
+       - Provide the names of all relevant aggregate dimensions.
     """
     structured_llm = create_llm().with_structured_output(MultipleSecondLevelThemes)
     messages = [SystemMessage(content=prompt), HumanMessage(content=concepts)]
@@ -83,15 +84,16 @@ def aggregate_normalise_themes(second_level_themes: str) -> MultipleSecondLevelT
        - weight (an integer)
        - broader_aggregate_dimensions (comma-separated)
 
-    2. Identify themes that are small (weight=1 or low) or overlapping in meaning.
+    2. Identify themes that are small (weight=1 or low) or overlapping in meaning. 
+       - Consider themes overlapping if they share significant conceptual content, even if wording differs.
 
     3. Merge similar themes into a single theme:
-       - Combine their reasoning text into one coherent explanation.
+       - Combine their reasoning text into one coherent, concise explanation, preserving key nuances.
        - Sum the weights of merged themes to get the new weight.
-       - Combine broader aggregate dimensions into a single list, removing duplicates.
+       - Combine broader aggregate dimensions into a list, removing duplicates. A theme can belong to multiple aggregates.
        - Give the merged theme a clear, descriptive pattern_name.
 
-    Make sure weights are recalculated correctly, reasoning is merged coherently, and dimensions have no duplicates.
+    Ensure weights are recalculated correctly, reasoning is coherent, and dimensions are deduplicated and accurate.
     """
     structured_llm = create_llm().with_structured_output(MultipleSecondLevelThemes)
     messages = [SystemMessage(content=prompt), HumanMessage(content=second_level_themes)]

@@ -45,33 +45,56 @@ def weight_based_bar_chart(agg_weights:pd.DataFrame):
     plt.tight_layout()
     plt.savefig(filepath, dpi=300, bbox_inches='tight')
 
-def sankey_bar_chart(df_exploded:pd.DataFrame):
-    """sankey bar chart"""
+
+def sankey_bar_chart(df_exploded: pd.DataFrame):
+    """
+    Sankey bar chart with pattern clustering using Pattern Names from the DataFrame.
+    Fully dynamic, works with merged/normalized patterns.
+    """
+    import plotly.graph_objects as go
+
     filepath = settings.BASE_DIR / "04_Output" / "theme_weights_sankey.png"
-    nodes = list(df_exploded[
-                     "Dimensions"].unique()) + list(
-        df_exploded["Pattern Name"].unique())
+
+    # 1. Use Pattern Name as the cluster (fully dynamic)
+    df_exploded["PatternCluster"] = df_exploded["Pattern Name"]
+
+    # 2. Aggregate weights by Dimension and PatternCluster
+    agg_df = df_exploded.groupby(["Dimensions", "PatternCluster"], as_index=False).agg({"Weight": "sum"})
+
+    # 3. Sort nodes by total weight for better visual order
+    dim_order = df_exploded.groupby("Dimensions")["Weight"].sum().sort_values(ascending=False).index.tolist()
+    cluster_order = agg_df.groupby("PatternCluster")["Weight"].sum().sort_values(ascending=False).index.tolist()
+    nodes = dim_order + cluster_order
     node_indices = {node: i for i, node in enumerate(nodes)}
 
-    # Build source, target, value lists
-    source = df_exploded[
-        "Dimensions"].map(node_indices)
-    target = df_exploded["Pattern Name"].map(node_indices)
-    value = df_exploded["Weight"]
+    # 4. Map source, target, value
+    source = agg_df["Dimensions"].map(node_indices)
+    target = agg_df["PatternCluster"].map(node_indices)
+    value = agg_df["Weight"]
 
-    # Create Sankey diagram
+    # 5. Create Sankey diagram
     fig = go.Figure(go.Sankey(
-        node=dict(pad=15, thickness=20,
+        node=dict(
+            pad=15,
+            thickness=20,
             line=dict(color="black", width=0.5),
-            label=nodes),
-        link=dict(source=source, target=target,
-            value=value)))
+            label=nodes
+        ),
+        link=dict(
+            source=source,
+            target=target,
+            value=value
+        )
+    ))
 
     fig.update_layout(
-        title_text="Theme Weights by Aggregate Dimension (Sankey)",
-        font_size=10)
-    fig.write_image(filepath, scale=2)
+        title_text="Theme Weights by Aggregate Dimension (Sankey with Pattern Clusters)",
+        font_size=10
+    )
 
+    # 6. Export image
+    fig.write_image(filepath, scale=2)
+    print(f"Sankey chart saved to {filepath}")
 
 def theme_heatmap(df_exploded: pd.DataFrame):
     """

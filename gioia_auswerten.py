@@ -7,17 +7,43 @@ all_concept_labels =[]
 normalized_concept_themes = []
 
 def get_concept_labels():
-    """flatten concept labels into list"""
+    """Extract concept labels with context into a list of dicts."""
     filepath = settings.BASE_DIR / "03_files" / "all_interviews.json"
     with open(filepath, "r") as json_file:
         data = json.load(json_file)
 
-    if data is None:
+    if not data:
         print("No interviews found")
-    label_list= [item.get('concept_label')
-              for element in data
-              for item in element['items']]
-    return ",".join(label_list)
+        return []
+
+    label_list = []
+    for element in data:
+        for item in element.get("items", []):
+            label_list.append({
+                "concept_label": item.get("concept_label"),
+                "reasoning": item.get("concept_reasoning"),
+                "keywords": item.get("keywords"),
+                "excerpt": item.get("answer_summary")  # or item.get("answer")
+            })
+
+    return label_list
+
+def concept_labels_as_string():
+    """Convert concept labels with context into an LLM-friendly string."""
+    concepts = get_concept_labels()
+    if not concepts:
+        return "No concepts found."
+
+    lines = []
+    for c in concepts:
+        lines.append(
+            f"Concept: {c['concept_label']}\n"
+            f"Reasoning: {c.get('reasoning', '')}\n"
+            f"Keywords: {', '.join(c.get('keywords', []))}\n"
+            f"Excerpt: {c.get('excerpt', '')}\n"
+            "---"
+        )
+    return "\n".join(lines)
 
 
 def flatten_second_level_themes() -> str:
@@ -40,7 +66,7 @@ def flatten_second_level_themes() -> str:
 
 
 def main():
-    labels  = get_concept_labels()
+    labels  = concept_labels_as_string()
     second_level_themes = create_second_level_themes(labels)
 
     all_concept_labels.append(second_level_themes.model_dump())
