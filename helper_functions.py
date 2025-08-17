@@ -1,7 +1,8 @@
-import time
 import json
-from db.schema import settings
+import time
 from typing import List
+
+from db.schema import settings
 
 
 def timing_wrapper(func):

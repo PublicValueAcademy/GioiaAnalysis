@@ -1,5 +1,3 @@
-import time
-import json
 import glob
 import shutil
 from pathlib import Path
@@ -7,7 +5,7 @@ from docx import Document
 from typing import List
 
 from db.schema import settings, QAItem, QACollection
-from langchain_handler import create_llm, extract_qa_with_llm
+from langchain_handler import extract_qa_with_llm
 from helper_functions import timing_wrapper, store_data_in_json
 # ----------------------------
 # Globals

@@ -1,12 +1,10 @@
+from langchain_core.messages import HumanMessage, \
+    SystemMessage
 from langchain_openai import ChatOpenAI
-from langchain_core.messages import SystemMessage, HumanMessage
 
-from db.schema import settings, QACollection, MultipleSecondLevelThemes
+from db.schema import MultipleSecondLevelThemes, \
+    QACollection, settings
 from helper_functions import timing_wrapper
-
-from typing import List
-
-
 
 
 def create_llm() -> ChatOpenAI:
@@ -53,7 +51,8 @@ def create_second_level_themes(concepts: str) -> MultipleSecondLevelThemes:
     """create second level themes"""
     prompt = """
     You are an analyst proficient in the Gioia method for qualitative data analysis.
-    You will be given a list of first-order concept labels. 
+    You will be given a list of first-order concept labels with additional context
+     (reasoning, keywords and answer summary ) 
     Your task:
     1. Group related concept labels into **multiple second-order themes (depending on content).
     Do not merge all concepts into one theme.

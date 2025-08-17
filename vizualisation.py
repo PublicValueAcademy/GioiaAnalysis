@@ -1,18 +1,16 @@
 
+import json
+from typing import Tuple
+
 import matplotlib.pyplot as plt
 import pandas as pd
+import plotly.graph_objects as go
 import seaborn as sns
-import plotly.graph_objects as go
-import json
-
-import plotly.graph_objects as go
-from typing import Tuple
 
 from db.schema import settings
 
 
-
-def load_json_in_DF()->Tuple:
+def load_json_in_dataframe()->Tuple:
     """load normalized data from json file"""
     filepath = settings.BASE_DIR / "03_files" / "normalized_second_level_themes.json"
     with open(filepath, "r") as json_file:
@@ -152,7 +150,7 @@ def theme_table(df_exploded: pd.DataFrame):
 
 
 if __name__ == '__main__':
-    data, data_exploded, data_weighted = load_json_in_DF()
+    data, data_exploded, data_weighted = load_json_in_dataframe()
     #weight_based_bar_chart(data_weighted)
     sankey_bar_chart(data_exploded)
     theme_heatmap(data_exploded)
